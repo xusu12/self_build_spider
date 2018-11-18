@@ -1,0 +1,611 @@
+GMT+8:2018-10-26 12:22:45, TID:48880 Thread-7, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 4110}
+GMT+8:2018-10-26 12:22:45, TID:48880 Thread-7, MSG:, 类别是：Appliances, 爬虫的状态是：1, 当前时间戳是：1540527765718, 销量排名是：1, 月销量是：4110
+GMT+8:2018-10-26 12:22:45, TID:61376 Thread-8, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 4050}
+GMT+8:2018-10-26 12:22:45, TID:61376 Thread-8, MSG:, 类别是：Appliances, 爬虫的状态是：1, 当前时间戳是：1540527765741, 销量排名是：3, 月销量是：4050
+GMT+8:2018-10-26 12:22:45, TID:61764 Thread-6, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 4080}
+GMT+8:2018-10-26 12:22:45, TID:61764 Thread-6, MSG:, 类别是：Appliances, 爬虫的状态是：1, 当前时间戳是：1540527765748, 销量排名是：2, 月销量是：4080
+GMT+8:2018-10-26 12:22:45, TID:46668 Thread-10, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 4020}
+GMT+8:2018-10-26 12:22:45, TID:46668 Thread-10, MSG:, 类别是：Appliances, 爬虫的状态是：1, 当前时间戳是：1540527765768, 销量排名是：5, 月销量是：4020
+GMT+8:2018-10-26 12:22:45, TID:61204 Thread-9, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 4050}
+GMT+8:2018-10-26 12:22:45, TID:61204 Thread-9, MSG:, 类别是：Appliances, 爬虫的状态是：1, 当前时间戳是：1540527765771, 销量排名是：4, 月销量是：4050
+GMT+8:2018-10-26 12:22:45, TID:64420 Thread-16, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 4020}
+GMT+8:2018-10-26 12:22:45, TID:64420 Thread-16, MSG:, 类别是：Appliances, 爬虫的状态是：1, 当前时间戳是：1540527765787, 销量排名是：6, 月销量是：4020
+GMT+8:2018-10-26 12:22:45, TID:43864 Thread-20, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 3960}
+GMT+8:2018-10-26 12:22:45, TID:43864 Thread-20, MSG:, 类别是：Appliances, 爬虫的状态是：1, 当前时间戳是：1540527765798, 销量排名是：10, 月销量是：3960
+GMT+8:2018-10-26 12:22:45, TID:42092 Thread-17, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 3990}
+GMT+8:2018-10-26 12:22:45, TID:42092 Thread-17, MSG:, 类别是：Appliances, 爬虫的状态是：1, 当前时间戳是：1540527765803, 销量排名是：7, 月销量是：3990
+GMT+8:2018-10-26 12:22:45, TID:42372 Thread-18, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 3990}
+GMT+8:2018-10-26 12:22:45, TID:42372 Thread-18, MSG:, 类别是：Appliances, 爬虫的状态是：1, 当前时间戳是：1540527765870, 销量排名是：8, 月销量是：3990
+GMT+8:2018-10-26 12:22:45, TID:39140 Thread-19, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 3960}
+GMT+8:2018-10-26 12:22:45, TID:39140 Thread-19, MSG:, 类别是：Appliances, 爬虫的状态是：1, 当前时间戳是：1540527765955, 销量排名是：9, 月销量是：3960
+GMT+8:2018-10-26 12:22:45, TID:39812 Thread-26, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 3900}
+GMT+8:2018-10-26 12:22:45, TID:39812 Thread-26, MSG:, 类别是：Appliances, 爬虫的状态是：1, 当前时间戳是：1540527765957, 销量排名是：15, 月销量是：3900
+GMT+8:2018-10-26 12:22:46, TID:30776 Thread-39, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 7410}
+GMT+8:2018-10-26 12:22:46, TID:30776 Thread-39, MSG:, 类别是：Arts, Crafts & Sewing, 爬虫的状态是：1, 当前时间戳是：1540527766166, 销量排名是：3, 月销量是：7410
+GMT+8:2018-10-26 12:22:46, TID:43528 Thread-37, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 8640}
+GMT+8:2018-10-26 12:22:46, TID:43528 Thread-37, MSG:, 类别是：Arts, Crafts & Sewing, 爬虫的状态是：1, 当前时间戳是：1540527766200, 销量排名是：1, 月销量是：8640
+GMT+8:2018-10-26 12:22:46, TID:59512 Thread-41, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 6750}
+GMT+8:2018-10-26 12:22:46, TID:59512 Thread-41, MSG:, 类别是：Arts, Crafts & Sewing, 爬虫的状态是：1, 当前时间戳是：1540527766214, 销量排名是：5, 月销量是：6750
+GMT+8:2018-10-26 12:22:46, TID:67884 Thread-40, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 7050}
+GMT+8:2018-10-26 12:22:46, TID:67884 Thread-40, MSG:, 类别是：Arts, Crafts & Sewing, 爬虫的状态是：1, 当前时间戳是：1540527766254, 销量排名是：4, 月销量是：7050
+GMT+8:2018-10-26 12:22:46, TID:66576 Thread-48, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 6300}
+GMT+8:2018-10-26 12:22:46, TID:66576 Thread-48, MSG:, 类别是：Arts, Crafts & Sewing, 爬虫的状态是：1, 当前时间戳是：1540527766265, 销量排名是：7, 月销量是：6300
+GMT+8:2018-10-26 12:22:46, TID:17288 Thread-38, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 7890}
+GMT+8:2018-10-26 12:22:46, TID:17288 Thread-38, MSG:, 类别是：Arts, Crafts & Sewing, 爬虫的状态是：1, 当前时间戳是：1540527766275, 销量排名是：2, 月销量是：7890
+GMT+8:2018-10-26 12:22:46, TID:64428 Thread-50, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 5970}
+GMT+8:2018-10-26 12:22:46, TID:64428 Thread-50, MSG:, 类别是：Arts, Crafts & Sewing, 爬虫的状态是：1, 当前时间戳是：1540527766293, 销量排名是：9, 月销量是：5970
+GMT+8:2018-10-26 12:22:46, TID:101296 Thread-51, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 5820}
+GMT+8:2018-10-26 12:22:46, TID:101296 Thread-51, MSG:, 类别是：Arts, Crafts & Sewing, 爬虫的状态是：1, 当前时间戳是：1540527766353, 销量排名是：10, 月销量是：5820
+GMT+8:2018-10-26 12:22:46, TID:41492 Thread-57, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 5280}
+GMT+8:2018-10-26 12:22:46, TID:41492 Thread-57, MSG:, 类别是：Arts, Crafts & Sewing, 爬虫的状态是：1, 当前时间戳是：1540527766413, 销量排名是：15, 月销量是：5280
+GMT+8:2018-10-26 12:22:46, TID:68228 Thread-47, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 6510}
+GMT+8:2018-10-26 12:22:46, TID:68228 Thread-47, MSG:, 类别是：Arts, Crafts & Sewing, 爬虫的状态是：1, 当前时间戳是：1540527766419, 销量排名是：6, 月销量是：6510
+GMT+8:2018-10-26 12:22:46, TID:65744 Thread-49, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 6120}
+GMT+8:2018-10-26 12:22:46, TID:65744 Thread-49, MSG:, 类别是：Arts, Crafts & Sewing, 爬虫的状态是：1, 当前时间戳是：1540527766571, 销量排名是：8, 月销量是：6120
+GMT+8:2018-10-26 12:22:46, TID:42080 Thread-68, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 11550}
+GMT+8:2018-10-26 12:22:46, TID:42080 Thread-68, MSG:, 类别是：Automotive, 爬虫的状态是：1, 当前时间戳是：1540527766614, 销量排名是：1, 月销量是：11550
+GMT+8:2018-10-26 12:22:46, TID:41976 Thread-70, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 9420}
+GMT+8:2018-10-26 12:22:46, TID:41976 Thread-70, MSG:, 类别是：Automotive, 爬虫的状态是：1, 当前时间戳是：1540527766649, 销量排名是：3, 月销量是：9420
+GMT+8:2018-10-26 12:22:46, TID:39724 Thread-71, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 8850}
+GMT+8:2018-10-26 12:22:46, TID:39724 Thread-71, MSG:, 类别是：Automotive, 爬虫的状态是：1, 当前时间戳是：1540527766655, 销量排名是：4, 月销量是：8850
+GMT+8:2018-10-26 12:22:46, TID:44000 Thread-72, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 8400}
+GMT+8:2018-10-26 12:22:46, TID:44000 Thread-72, MSG:, 类别是：Automotive, 爬虫的状态是：1, 当前时间戳是：1540527766715, 销量排名是：5, 月销量是：8400
+GMT+8:2018-10-26 12:22:46, TID:59356 Thread-78, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 8040}
+GMT+8:2018-10-26 12:22:46, TID:59356 Thread-78, MSG:, 类别是：Automotive, 爬虫的状态是：1, 当前时间戳是：1540527766745, 销量排名是：6, 月销量是：8040
+GMT+8:2018-10-26 12:22:46, TID:66204 Thread-81, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 7230}
+GMT+8:2018-10-26 12:22:46, TID:66204 Thread-81, MSG:, 类别是：Automotive, 爬虫的状态是：1, 当前时间戳是：1540527766753, 销量排名是：9, 月销量是：7230
+GMT+8:2018-10-26 12:22:46, TID:68076 Thread-80, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 7470}
+GMT+8:2018-10-26 12:22:46, TID:68076 Thread-80, MSG:, 类别是：Automotive, 爬虫的状态是：1, 当前时间戳是：1540527766755, 销量排名是：8, 月销量是：7470
+GMT+8:2018-10-26 12:22:46, TID:55244 Thread-79, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 7740}
+GMT+8:2018-10-26 12:22:46, TID:55244 Thread-79, MSG:, 类别是：Automotive, 爬虫的状态是：1, 当前时间戳是：1540527766759, 销量排名是：7, 月销量是：7740
+GMT+8:2018-10-26 12:22:46, TID:17068 Thread-82, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 7020}
+GMT+8:2018-10-26 12:22:46, TID:17068 Thread-82, MSG:, 类别是：Automotive, 爬虫的状态是：1, 当前时间戳是：1540527766812, 销量排名是：10, 月销量是：7020
+GMT+8:2018-10-26 12:22:46, TID:42524 Thread-69, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 10230}
+GMT+8:2018-10-26 12:22:46, TID:42524 Thread-69, MSG:, 类别是：Automotive, 爬虫的状态是：1, 当前时间戳是：1540527766851, 销量排名是：2, 月销量是：10230
+GMT+8:2018-10-26 12:22:46, TID:67276 Thread-88, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 6240}
+GMT+8:2018-10-26 12:22:46, TID:67276 Thread-88, MSG:, 类别是：Automotive, 爬虫的状态是：1, 当前时间戳是：1540527766865, 销量排名是：15, 月销量是：6240
+GMT+8:2018-10-26 12:22:47, TID:43324 Thread-99, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 17520}
+GMT+8:2018-10-26 12:22:47, TID:43324 Thread-99, MSG:, 类别是：Baby, 爬虫的状态是：1, 当前时间戳是：1540527767079, 销量排名是：1, 月销量是：17520
+GMT+8:2018-10-26 12:22:47, TID:44476 Thread-101, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 14700}
+GMT+8:2018-10-26 12:22:47, TID:44476 Thread-101, MSG:, 类别是：Baby, 爬虫的状态是：1, 当前时间戳是：1540527767085, 销量排名是：3, 月销量是：14700
+GMT+8:2018-10-26 12:22:47, TID:44880 Thread-102, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 13890}
+GMT+8:2018-10-26 12:22:47, TID:44880 Thread-102, MSG:, 类别是：Baby, 爬虫的状态是：1, 当前时间戳是：1540527767123, 销量排名是：4, 月销量是：13890
+GMT+8:2018-10-26 12:22:47, TID:44460 Thread-100, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 15780}
+GMT+8:2018-10-26 12:22:47, TID:44460 Thread-100, MSG:, 类别是：Baby, 爬虫的状态是：1, 当前时间戳是：1540527767136, 销量排名是：2, 月销量是：15780
+GMT+8:2018-10-26 12:22:47, TID:47820 Thread-103, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 13260}
+GMT+8:2018-10-26 12:22:47, TID:47820 Thread-103, MSG:, 类别是：Baby, 爬虫的状态是：1, 当前时间戳是：1540527767155, 销量排名是：5, 月销量是：13260
+GMT+8:2018-10-26 12:22:47, TID:107172 Thread-110, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 12270}
+GMT+8:2018-10-26 12:22:47, TID:107172 Thread-110, MSG:, 类别是：Baby, 爬虫的状态是：1, 当前时间戳是：1540527767188, 销量排名是：7, 月销量是：12270
+GMT+8:2018-10-26 12:22:47, TID:112276 Thread-113, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 11220}
+GMT+8:2018-10-26 12:22:47, TID:112276 Thread-113, MSG:, 类别是：Baby, 爬虫的状态是：1, 当前时间戳是：1540527767208, 销量排名是：10, 月销量是：11220
+GMT+8:2018-10-26 12:22:47, TID:110888 Thread-109, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 12720}
+GMT+8:2018-10-26 12:22:47, TID:110888 Thread-109, MSG:, 类别是：Baby, 爬虫的状态是：1, 当前时间戳是：1540527767251, 销量排名是：6, 月销量是：12720
+GMT+8:2018-10-26 12:22:47, TID:91892 Thread-112, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 11520}
+GMT+8:2018-10-26 12:22:47, TID:91892 Thread-112, MSG:, 类别是：Baby, 爬虫的状态是：1, 当前时间戳是：1540527767259, 销量排名是：9, 月销量是：11520
+GMT+8:2018-10-26 12:22:47, TID:98712 Thread-111, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 11880}
+GMT+8:2018-10-26 12:22:47, TID:98712 Thread-111, MSG:, 类别是：Baby, 爬虫的状态是：1, 当前时间戳是：1540527767334, 销量排名是：8, 月销量是：11880
+GMT+8:2018-10-26 12:22:47, TID:40360 Thread-119, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 10020}
+GMT+8:2018-10-26 12:22:47, TID:40360 Thread-119, MSG:, 类别是：Baby, 爬虫的状态是：1, 当前时间戳是：1540527767371, 销量排名是：15, 月销量是：10020
+GMT+8:2018-10-26 12:22:47, TID:45908 Thread-130, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': '< 5'}
+GMT+8:2018-10-26 12:22:47, TID:47632 Thread-132, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': '< 5'}
+GMT+8:2018-10-26 12:22:47, TID:51504 Thread-131, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': '< 5'}
+GMT+8:2018-10-26 12:22:47, TID:53388 Thread-134, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': '< 5'}
+GMT+8:2018-10-26 12:22:47, TID:104804 Thread-142, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': '< 5'}
+GMT+8:2018-10-26 12:22:47, TID:113940 Thread-141, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': '< 5'}
+GMT+8:2018-10-26 12:22:47, TID:64220 Thread-143, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': '< 5'}
+GMT+8:2018-10-26 12:22:47, TID:52868 Thread-133, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': '< 5'}
+GMT+8:2018-10-26 12:22:47, TID:62996 Thread-144, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': '< 5'}
+GMT+8:2018-10-26 12:22:47, TID:2608 Thread-150, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': '< 5'}
+GMT+8:2018-10-26 12:22:47, TID:38004 Thread-140, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': '< 5'}
+GMT+8:2018-10-26 12:22:48, TID:47184 Thread-163, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 28770}
+GMT+8:2018-10-26 12:22:48, TID:47184 Thread-163, MSG:, 类别是：Beauty & Personal Care, 爬虫的状态是：1, 当前时间戳是：1540527768019, 销量排名是：3, 月销量是：28770
+GMT+8:2018-10-26 12:22:48, TID:47396 Thread-164, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 27360}
+GMT+8:2018-10-26 12:22:48, TID:46728 Thread-161, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 33780}
+GMT+8:2018-10-26 12:22:48, TID:47396 Thread-164, MSG:, 类别是：Beauty & Personal Care, 爬虫的状态是：1, 当前时间戳是：1540527768055, 销量排名是：4, 月销量是：27360
+GMT+8:2018-10-26 12:22:48, TID:46728 Thread-161, MSG:, 类别是：Beauty & Personal Care, 爬虫的状态是：1, 当前时间戳是：1540527768055, 销量排名是：1, 月销量是：33780
+GMT+8:2018-10-26 12:22:48, TID:46204 Thread-162, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 30720}
+GMT+8:2018-10-26 12:22:48, TID:46204 Thread-162, MSG:, 类别是：Beauty & Personal Care, 爬虫的状态是：1, 当前时间戳是：1540527768056, 销量排名是：2, 月销量是：30720
+GMT+8:2018-10-26 12:22:48, TID:46692 Thread-165, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 26220}
+GMT+8:2018-10-26 12:22:48, TID:46692 Thread-165, MSG:, 类别是：Beauty & Personal Care, 爬虫的状态是：1, 当前时间戳是：1540527768061, 销量排名是：5, 月销量是：26220
+GMT+8:2018-10-26 12:22:48, TID:41600 Thread-172, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 24480}
+GMT+8:2018-10-26 12:22:48, TID:40944 Thread-173, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 23760}
+GMT+8:2018-10-26 12:22:48, TID:41600 Thread-172, MSG:, 类别是：Beauty & Personal Care, 爬虫的状态是：1, 当前时间戳是：1540527768093, 销量排名是：7, 月销量是：24480
+GMT+8:2018-10-26 12:22:48, TID:40944 Thread-173, MSG:, 类别是：Beauty & Personal Care, 爬虫的状态是：1, 当前时间戳是：1540527768093, 销量排名是：8, 月销量是：23760
+GMT+8:2018-10-26 12:22:48, TID:29752 Thread-175, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 22590}
+GMT+8:2018-10-26 12:22:48, TID:29752 Thread-175, MSG:, 类别是：Beauty & Personal Care, 爬虫的状态是：1, 当前时间戳是：1540527768120, 销量排名是：10, 月销量是：22590
+GMT+8:2018-10-26 12:22:48, TID:42512 Thread-181, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 20400}
+GMT+8:2018-10-26 12:22:48, TID:42512 Thread-181, MSG:, 类别是：Beauty & Personal Care, 爬虫的状态是：1, 当前时间戳是：1540527768218, 销量排名是：15, 月销量是：20400
+GMT+8:2018-10-26 12:22:48, TID:43976 Thread-171, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 25290}
+GMT+8:2018-10-26 12:22:48, TID:43976 Thread-171, MSG:, 类别是：Beauty & Personal Care, 爬虫的状态是：1, 当前时间戳是：1540527768239, 销量排名是：6, 月销量是：25290
+GMT+8:2018-10-26 12:22:48, TID:43052 Thread-174, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 23160}
+GMT+8:2018-10-26 12:22:48, TID:43052 Thread-174, MSG:, 类别是：Beauty & Personal Care, 爬虫的状态是：1, 当前时间戳是：1540527768297, 销量排名是：9, 月销量是：23160
+GMT+8:2018-10-26 12:22:48, TID:41464 Thread-192, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 1500}
+GMT+8:2018-10-26 12:22:48, TID:41464 Thread-192, MSG:, 类别是：Books, 爬虫的状态是：1, 当前时间戳是：1540527768396, 销量排名是：1, 月销量是：1500
+GMT+8:2018-10-26 12:22:48, TID:40308 Thread-196, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 1256}
+GMT+8:2018-10-26 12:22:48, TID:42944 Thread-193, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 1392}
+GMT+8:2018-10-26 12:22:48, TID:40308 Thread-196, MSG:, 类别是：Books, 爬虫的状态是：1, 当前时间戳是：1540527768410, 销量排名是：5, 月销量是：1256
+GMT+8:2018-10-26 12:22:48, TID:42944 Thread-193, MSG:, 类别是：Books, 爬虫的状态是：1, 当前时间戳是：1540527768411, 销量排名是：2, 月销量是：1392
+GMT+8:2018-10-26 12:22:48, TID:41336 Thread-194, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 1331}
+GMT+8:2018-10-26 12:22:48, TID:41336 Thread-194, MSG:, 类别是：Books, 爬虫的状态是：1, 当前时间戳是：1540527768462, 销量排名是：3, 月销量是：1331
+GMT+8:2018-10-26 12:22:48, TID:37672 Thread-195, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 1288}
+GMT+8:2018-10-26 12:22:48, TID:37672 Thread-195, MSG:, 类别是：Books, 爬虫的状态是：1, 当前时间戳是：1540527768465, 销量排名是：4, 月销量是：1288
+GMT+8:2018-10-26 12:22:48, TID:40056 Thread-202, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 1229}
+GMT+8:2018-10-26 12:22:48, TID:40056 Thread-202, MSG:, 类别是：Books, 爬虫的状态是：1, 当前时间戳是：1540527768515, 销量排名是：6, 月销量是：1229
+GMT+8:2018-10-26 12:22:48, TID:8984 Thread-204, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 1189}
+GMT+8:2018-10-26 12:22:48, TID:8984 Thread-204, MSG:, 类别是：Books, 爬虫的状态是：1, 当前时间戳是：1540527768518, 销量排名是：8, 月销量是：1189
+GMT+8:2018-10-26 12:22:48, TID:68152 Thread-205, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 1172}
+GMT+8:2018-10-26 12:22:48, TID:68152 Thread-205, MSG:, 类别是：Books, 爬虫的状态是：1, 当前时间戳是：1540527768528, 销量排名是：9, 月销量是：1172
+GMT+8:2018-10-26 12:22:48, TID:39808 Thread-203, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 1207}
+GMT+8:2018-10-26 12:22:48, TID:39808 Thread-203, MSG:, 类别是：Books, 爬虫的状态是：1, 当前时间戳是：1540527768572, 销量排名是：7, 月销量是：1207
+GMT+8:2018-10-26 12:22:48, TID:34948 Thread-206, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 1157}
+GMT+8:2018-10-26 12:22:48, TID:34948 Thread-206, MSG:, 类别是：Books, 爬虫的状态是：1, 当前时间戳是：1540527768601, 销量排名是：10, 月销量是：1157
+GMT+8:2018-10-26 12:22:48, TID:59188 Thread-216, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 8220}
+GMT+8:2018-10-26 12:22:48, TID:59188 Thread-216, MSG:, 类别是：Camera & Photo, 爬虫的状态是：1, 当前时间戳是：1540527768673, 销量排名是：5, 月销量是：8220
+GMT+8:2018-10-26 12:22:48, TID:54256 Thread-213, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 11040}
+GMT+8:2018-10-26 12:22:48, TID:54256 Thread-213, MSG:, 类别是：Camera & Photo, 爬虫的状态是：1, 当前时间戳是：1540527768715, 销量排名是：2, 月销量是：11040
+GMT+8:2018-10-26 12:22:48, TID:39344 Thread-215, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 8910}
+GMT+8:2018-10-26 12:22:48, TID:39344 Thread-215, MSG:, 类别是：Camera & Photo, 爬虫的状态是：1, 当前时间戳是：1540527768727, 销量排名是：4, 月销量是：8910
+GMT+8:2018-10-26 12:22:48, TID:51256 Thread-212, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 13170}
+GMT+8:2018-10-26 12:22:48, TID:51256 Thread-212, MSG:, 类别是：Camera & Photo, 爬虫的状态是：1, 当前时间戳是：1540527768728, 销量排名是：1, 月销量是：13170
+GMT+8:2018-10-26 12:22:48, TID:49392 Thread-214, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 9810}
+GMT+8:2018-10-26 12:22:48, TID:49392 Thread-214, MSG:, 类别是：Camera & Photo, 爬虫的状态是：1, 当前时间戳是：1540527768732, 销量排名是：3, 月销量是：9810
+GMT+8:2018-10-26 12:22:48, TID:42256 Thread-223, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 40020}
+GMT+8:2018-10-26 12:22:48, TID:42256 Thread-223, MSG:, 类别是：Cell Phones & Accessories, 爬虫的状态是：1, 当前时间戳是：1540527768804, 销量排名是：2, 月销量是：40020
+GMT+8:2018-10-26 12:22:48, TID:41692 Thread-225, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 34560}
+GMT+8:2018-10-26 12:22:48, TID:41692 Thread-225, MSG:, 类别是：Cell Phones & Accessories, 爬虫的状态是：1, 当前时间戳是：1540527768832, 销量排名是：4, 月销量是：34560
+GMT+8:2018-10-26 12:22:48, TID:40612 Thread-222, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 45180}
+GMT+8:2018-10-26 12:22:48, TID:40612 Thread-222, MSG:, 类别是：Cell Phones & Accessories, 爬虫的状态是：1, 当前时间戳是：1540527768837, 销量排名是：1, 月销量是：45180
+GMT+8:2018-10-26 12:22:48, TID:44028 Thread-226, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 32760}
+GMT+8:2018-10-26 12:22:48, TID:44028 Thread-226, MSG:, 类别是：Cell Phones & Accessories, 爬虫的状态是：1, 当前时间戳是：1540527768880, 销量排名是：5, 月销量是：32760
+GMT+8:2018-10-26 12:22:48, TID:68424 Thread-224, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 36840}
+GMT+8:2018-10-26 12:22:48, TID:68424 Thread-224, MSG:, 类别是：Cell Phones & Accessories, 爬虫的状态是：1, 当前时间戳是：1540527768887, 销量排名是：3, 月销量是：36840
+GMT+8:2018-10-26 12:22:48, TID:67000 Thread-233, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 22860}
+GMT+8:2018-10-26 12:22:48, TID:67000 Thread-233, MSG:, 类别是：Clothing, Shoes & Jewelry, 爬虫的状态是：1, 当前时间戳是：1540527768918, 销量排名是：2, 月销量是：22860
+GMT+8:2018-10-26 12:22:48, TID:62452 Thread-236, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 19830}
+GMT+8:2018-10-26 12:22:48, TID:62452 Thread-236, MSG:, 类别是：Clothing, Shoes & Jewelry, 爬虫的状态是：1, 当前时间戳是：1540527768920, 销量排名是：5, 月销量是：19830
+GMT+8:2018-10-26 12:22:48, TID:124288 Thread-235, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 20610}
+GMT+8:2018-10-26 12:22:48, TID:124288 Thread-235, MSG:, 类别是：Clothing, Shoes & Jewelry, 爬虫的状态是：1, 当前时间戳是：1540527768923, 销量排名是：4, 月销量是：20610
+GMT+8:2018-10-26 12:22:48, TID:26188 Thread-234, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 21570}
+GMT+8:2018-10-26 12:22:48, TID:26188 Thread-234, MSG:, 类别是：Clothing, Shoes & Jewelry, 爬虫的状态是：1, 当前时间戳是：1540527768927, 销量排名是：3, 月销量是：21570
+GMT+8:2018-10-26 12:22:48, TID:115404 Thread-232, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 24960}
+GMT+8:2018-10-26 12:22:48, TID:115404 Thread-232, MSG:, 类别是：Clothing, Shoes & Jewelry, 爬虫的状态是：1, 当前时间戳是：1540527768980, 销量排名是：1, 月销量是：24960
+GMT+8:2018-10-26 12:22:49, TID:67732 Thread-243, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 10470}
+GMT+8:2018-10-26 12:22:49, TID:67732 Thread-243, MSG:, 类别是：Computers & Accessories, 爬虫的状态是：1, 当前时间戳是：1540527769047, 销量排名是：2, 月销量是：10470
+GMT+8:2018-10-26 12:22:49, TID:11832 Thread-244, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 9690}
+GMT+8:2018-10-26 12:22:49, TID:11832 Thread-244, MSG:, 类别是：Computers & Accessories, 爬虫的状态是：1, 当前时间戳是：1540527769048, 销量排名是：3, 月销量是：9690
+GMT+8:2018-10-26 12:22:49, TID:68492 Thread-245, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 9090}
+GMT+8:2018-10-26 12:22:49, TID:68492 Thread-245, MSG:, 类别是：Computers & Accessories, 爬虫的状态是：1, 当前时间戳是：1540527769084, 销量排名是：4, 月销量是：9090
+GMT+8:2018-10-26 12:22:49, TID:66224 Thread-242, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 11670}
+GMT+8:2018-10-26 12:22:49, TID:66224 Thread-242, MSG:, 类别是：Computers & Accessories, 爬虫的状态是：1, 当前时间戳是：1540527769112, 销量排名是：1, 月销量是：11670
+GMT+8:2018-10-26 12:22:49, TID:81836 Thread-246, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 8610}
+GMT+8:2018-10-26 12:22:49, TID:81836 Thread-246, MSG:, 类别是：Computers & Accessories, 爬虫的状态是：1, 当前时间戳是：1540527769126, 销量排名是：5, 月销量是：8610
+GMT+8:2018-10-26 12:22:49, TID:56888 Thread-255, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 7080}
+GMT+8:2018-10-26 12:22:49, TID:56888 Thread-255, MSG:, 类别是：Computers & Accessories, 爬虫的状态是：1, 当前时间戳是：1540527769175, 销量排名是：10, 月销量是：7080
+GMT+8:2018-10-26 12:22:49, TID:62944 Thread-253, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 7890}
+GMT+8:2018-10-26 12:22:49, TID:62944 Thread-253, MSG:, 类别是：Computers & Accessories, 爬虫的状态是：1, 当前时间戳是：1540527769177, 销量排名是：7, 月销量是：7890
+GMT+8:2018-10-26 12:22:49, TID:46272 Thread-252, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 8220}
+GMT+8:2018-10-26 12:22:49, TID:46272 Thread-252, MSG:, 类别是：Computers & Accessories, 爬虫的状态是：1, 当前时间戳是：1540527769229, 销量排名是：6, 月销量是：8220
+GMT+8:2018-10-26 12:22:49, TID:55664 Thread-256, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 7320}
+GMT+8:2018-10-26 12:22:49, TID:55664 Thread-256, MSG:, 类别是：Computers & Accessories, 爬虫的状态是：1, 当前时间戳是：1540527769241, 销量排名是：9, 月销量是：7320
+GMT+8:2018-10-26 12:22:49, TID:67172 Thread-254, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 7590}
+GMT+8:2018-10-26 12:22:49, TID:67172 Thread-254, MSG:, 类别是：Computers & Accessories, 爬虫的状态是：1, 当前时间戳是：1540527769249, 销量排名是：8, 月销量是：7590
+GMT+8:2018-10-26 12:22:49, TID:79948 Thread-262, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 6150}
+GMT+8:2018-10-26 12:22:49, TID:79948 Thread-262, MSG:, 类别是：Computers & Accessories, 爬虫的状态是：1, 当前时间戳是：1540527769363, 销量排名是：15, 月销量是：6150
+GMT+8:2018-10-26 12:22:49, TID:68248 Thread-277, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 14430}
+GMT+8:2018-10-26 12:22:49, TID:68248 Thread-277, MSG:, 类别是：Electronics, 爬虫的状态是：1, 当前时间戳是：1540527769533, 销量排名是：5, 月销量是：14430
+GMT+8:2018-10-26 12:22:49, TID:66264 Thread-274, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 17190}
+GMT+8:2018-10-26 12:22:49, TID:66264 Thread-274, MSG:, 类别是：Electronics, 爬虫的状态是：1, 当前时间戳是：1540527769534, 销量排名是：2, 月销量是：17190
+GMT+8:2018-10-26 12:22:49, TID:18852 Thread-276, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 15150}
+GMT+8:2018-10-26 12:22:49, TID:18852 Thread-276, MSG:, 类别是：Electronics, 爬虫的状态是：1, 当前时间戳是：1540527769537, 销量排名是：4, 月销量是：15150
+GMT+8:2018-10-26 12:22:49, TID:114424 Thread-275, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 16020}
+GMT+8:2018-10-26 12:22:49, TID:114424 Thread-275, MSG:, 类别是：Electronics, 爬虫的状态是：1, 当前时间戳是：1540527769539, 销量排名是：3, 月销量是：16020
+GMT+8:2018-10-26 12:22:49, TID:8996 Thread-273, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 19050}
+GMT+8:2018-10-26 12:22:49, TID:8996 Thread-273, MSG:, 类别是：Electronics, 爬虫的状态是：1, 当前时间戳是：1540527769635, 销量排名是：1, 月销量是：19050
+GMT+8:2018-10-26 12:22:49, TID:63572 Thread-283, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 13860}
+GMT+8:2018-10-26 12:22:49, TID:63572 Thread-283, MSG:, 类别是：Electronics, 爬虫的状态是：1, 当前时间戳是：1540527769637, 销量排名是：6, 月销量是：13860
+GMT+8:2018-10-26 12:22:49, TID:66812 Thread-287, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 12210}
+GMT+8:2018-10-26 12:22:49, TID:66812 Thread-287, MSG:, 类别是：Electronics, 爬虫的状态是：1, 当前时间戳是：1540527769652, 销量排名是：10, 月销量是：12210
+GMT+8:2018-10-26 12:22:49, TID:66404 Thread-285, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 12930}
+GMT+8:2018-10-26 12:22:49, TID:66404 Thread-285, MSG:, 类别是：Electronics, 爬虫的状态是：1, 当前时间戳是：1540527769699, 销量排名是：8, 月销量是：12930
+GMT+8:2018-10-26 12:22:49, TID:54644 Thread-284, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 13380}
+GMT+8:2018-10-26 12:22:49, TID:65616 Thread-286, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 12540}
+GMT+8:2018-10-26 12:22:49, TID:54644 Thread-284, MSG:, 类别是：Electronics, 爬虫的状态是：1, 当前时间戳是：1540527769702, 销量排名是：7, 月销量是：13380
+GMT+8:2018-10-26 12:22:49, TID:65616 Thread-286, MSG:, 类别是：Electronics, 爬虫的状态是：1, 当前时间戳是：1540527769702, 销量排名是：9, 月销量是：12540
+GMT+8:2018-10-26 12:22:49, TID:60056 Thread-293, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 10860}
+GMT+8:2018-10-26 12:22:49, TID:60056 Thread-293, MSG:, 类别是：Electronics, 爬虫的状态是：1, 当前时间戳是：1540527769825, 销量排名是：15, 月销量是：10860
+GMT+8:2018-10-26 12:22:49, TID:62600 Thread-304, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 32370}
+GMT+8:2018-10-26 12:22:49, TID:62600 Thread-304, MSG:, 类别是：Grocery & Gourmet Food, 爬虫的状态是：1, 当前时间戳是：1540527769997, 销量排名是：1, 月销量是：32370
+GMT+8:2018-10-26 12:22:49, TID:64644 Thread-306, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 27960}
+GMT+8:2018-10-26 12:22:49, TID:64644 Thread-306, MSG:, 类别是：Grocery & Gourmet Food, 爬虫的状态是：1, 当前时间戳是：1540527769999, 销量排名是：3, 月销量是：27960
+GMT+8:2018-10-26 12:22:50, TID:61640 Thread-308, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 25620}
+GMT+8:2018-10-26 12:22:50, TID:61640 Thread-308, MSG:, 类别是：Grocery & Gourmet Food, 爬虫的状态是：1, 当前时间戳是：1540527770009, 销量排名是：5, 月销量是：25620
+GMT+8:2018-10-26 12:22:50, TID:66772 Thread-305, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 29700}
+GMT+8:2018-10-26 12:22:50, TID:66772 Thread-305, MSG:, 类别是：Grocery & Gourmet Food, 爬虫的状态是：1, 当前时间戳是：1540527770041, 销量排名是：2, 月销量是：29700
+GMT+8:2018-10-26 12:22:50, TID:31944 Thread-307, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 26670}
+GMT+8:2018-10-26 12:22:50, TID:31944 Thread-307, MSG:, 类别是：Grocery & Gourmet Food, 爬虫的状态是：1, 当前时间戳是：1540527770072, 销量排名是：4, 月销量是：26670
+GMT+8:2018-10-26 12:22:50, TID:34580 Thread-314, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 24750}
+GMT+8:2018-10-26 12:22:50, TID:34580 Thread-314, MSG:, 类别是：Grocery & Gourmet Food, 爬虫的状态是：1, 当前时间戳是：1540527770119, 销量排名是：6, 月销量是：24750
+GMT+8:2018-10-26 12:22:50, TID:66276 Thread-315, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 24000}
+GMT+8:2018-10-26 12:22:50, TID:66276 Thread-315, MSG:, 类别是：Grocery & Gourmet Food, 爬虫的状态是：1, 当前时间戳是：1540527770121, 销量排名是：7, 月销量是：24000
+GMT+8:2018-10-26 12:22:50, TID:68092 Thread-316, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 23340}
+GMT+8:2018-10-26 12:22:50, TID:68092 Thread-316, MSG:, 类别是：Grocery & Gourmet Food, 爬虫的状态是：1, 当前时间戳是：1540527770172, 销量排名是：8, 月销量是：23340
+GMT+8:2018-10-26 12:22:50, TID:47984 Thread-317, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 22770}
+GMT+8:2018-10-26 12:22:50, TID:47984 Thread-317, MSG:, 类别是：Grocery & Gourmet Food, 爬虫的状态是：1, 当前时间戳是：1540527770193, 销量排名是：9, 月销量是：22770
+GMT+8:2018-10-26 12:22:50, TID:48856 Thread-324, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 20160}
+GMT+8:2018-10-26 12:22:50, TID:48856 Thread-324, MSG:, 类别是：Grocery & Gourmet Food, 爬虫的状态是：1, 当前时间戳是：1540527770212, 销量排名是：15, 月销量是：20160
+GMT+8:2018-10-26 12:22:50, TID:23664 Thread-318, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 22230}
+GMT+8:2018-10-26 12:22:50, TID:23664 Thread-318, MSG:, 类别是：Grocery & Gourmet Food, 爬虫的状态是：1, 当前时间戳是：1540527770255, 销量排名是：10, 月销量是：22230
+GMT+8:2018-10-26 12:22:50, TID:25408 Thread-337, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 38670}
+GMT+8:2018-10-26 12:22:50, TID:25408 Thread-337, MSG:, 类别是：Health & Household, 爬虫的状态是：1, 当前时间戳是：1540527770435, 销量排名是：3, 月销量是：38670
+GMT+8:2018-10-26 12:22:50, TID:22992 Thread-338, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 37230}
+GMT+8:2018-10-26 12:22:50, TID:22992 Thread-338, MSG:, 类别是：Health & Household, 爬虫的状态是：1, 当前时间戳是：1540527770465, 销量排名是：4, 月销量是：37230
+GMT+8:2018-10-26 12:22:50, TID:33204 Thread-339, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 36060}
+GMT+8:2018-10-26 12:22:50, TID:33204 Thread-339, MSG:, 类别是：Health & Household, 爬虫的状态是：1, 当前时间戳是：1540527770475, 销量排名是：5, 月销量是：36060
+GMT+8:2018-10-26 12:22:50, TID:2140 Thread-336, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 40590}
+GMT+8:2018-10-26 12:22:50, TID:2140 Thread-336, MSG:, 类别是：Health & Household, 爬虫的状态是：1, 当前时间戳是：1540527770499, 销量排名是：2, 月销量是：40590
+GMT+8:2018-10-26 12:22:50, TID:34096 Thread-335, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 43440}
+GMT+8:2018-10-26 12:22:50, TID:34096 Thread-335, MSG:, 类别是：Health & Household, 爬虫的状态是：1, 当前时间戳是：1540527770522, 销量排名是：1, 月销量是：43440
+GMT+8:2018-10-26 12:22:50, TID:43696 Thread-345, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 35040}
+GMT+8:2018-10-26 12:22:50, TID:43696 Thread-345, MSG:, 类别是：Health & Household, 爬虫的状态是：1, 当前时间戳是：1540527770628, 销量排名是：6, 月销量是：35040
+GMT+8:2018-10-26 12:22:50, TID:52448 Thread-347, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 33420}
+GMT+8:2018-10-26 12:22:50, TID:52448 Thread-347, MSG:, 类别是：Health & Household, 爬虫的状态是：1, 当前时间戳是：1540527770631, 销量排名是：8, 月销量是：33420
+GMT+8:2018-10-26 12:22:50, TID:33304 Thread-348, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 32700}
+GMT+8:2018-10-26 12:22:50, TID:33304 Thread-348, MSG:, 类别是：Health & Household, 爬虫的状态是：1, 当前时间戳是：1540527770636, 销量排名是：9, 月销量是：32700
+GMT+8:2018-10-26 12:22:50, TID:27904 Thread-346, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 34170}
+GMT+8:2018-10-26 12:22:50, TID:27904 Thread-346, MSG:, 类别是：Health & Household, 爬虫的状态是：1, 当前时间戳是：1540527770655, 销量排名是：7, 月销量是：34170
+GMT+8:2018-10-26 12:22:50, TID:22944 Thread-349, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 32070}
+GMT+8:2018-10-26 12:22:50, TID:22944 Thread-349, MSG:, 类别是：Health & Household, 爬虫的状态是：1, 当前时间戳是：1540527770749, 销量排名是：10, 月销量是：32070
+GMT+8:2018-10-26 12:22:50, TID:33272 Thread-367, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 1560}
+GMT+8:2018-10-26 12:22:50, TID:33272 Thread-367, MSG:, 类别是：Home & Garden, 爬虫的状态是：1, 当前时间戳是：1540527770860, 销量排名是：2, 月销量是：1560
+GMT+8:2018-10-26 12:22:50, TID:21460 Thread-369, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 1530}
+GMT+8:2018-10-26 12:22:50, TID:21460 Thread-369, MSG:, 类别是：Home & Garden, 爬虫的状态是：1, 当前时间戳是：1540527770902, 销量排名是：4, 月销量是：1530
+GMT+8:2018-10-26 12:22:50, TID:48908 Thread-368, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 1542}
+GMT+8:2018-10-26 12:22:50, TID:48908 Thread-368, MSG:, 类别是：Home & Garden, 爬虫的状态是：1, 当前时间戳是：1540527770906, 销量排名是：3, 月销量是：1542
+GMT+8:2018-10-26 12:22:50, TID:48012 Thread-366, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 1590}
+GMT+8:2018-10-26 12:22:50, TID:48012 Thread-366, MSG:, 类别是：Home & Garden, 爬虫的状态是：1, 当前时间戳是：1540527770928, 销量排名是：1, 月销量是：1590
+GMT+8:2018-10-26 12:22:50, TID:38992 Thread-370, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 1507}
+GMT+8:2018-10-26 12:22:50, TID:38992 Thread-370, MSG:, 类别是：Home & Garden, 爬虫的状态是：1, 当前时间戳是：1540527770973, 销量排名是：5, 月销量是：1507
+GMT+8:2018-10-26 12:22:50, TID:39668 Thread-376, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 1488}
+GMT+8:2018-10-26 12:22:50, TID:39668 Thread-376, MSG:, 类别是：Home & Garden, 爬虫的状态是：1, 当前时间戳是：1540527770983, 销量排名是：6, 月销量是：1488
+GMT+8:2018-10-26 12:22:50, TID:65448 Thread-378, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 1459}
+GMT+8:2018-10-26 12:22:50, TID:65448 Thread-378, MSG:, 类别是：Home & Garden, 爬虫的状态是：1, 当前时间戳是：1540527770987, 销量排名是：8, 月销量是：1459
+GMT+8:2018-10-26 12:22:50, TID:67568 Thread-377, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 1472}
+GMT+8:2018-10-26 12:22:50, TID:67568 Thread-377, MSG:, 类别是：Home & Garden, 爬虫的状态是：1, 当前时间戳是：1540527770991, 销量排名是：7, 月销量是：1472
+GMT+8:2018-10-26 12:22:51, TID:32348 Thread-355, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 29580}
+GMT+8:2018-10-26 12:22:51, TID:32348 Thread-355, MSG:, 类别是：Health & Household, 爬虫的状态是：1, 当前时间戳是：1540527771038, 销量排名是：15, 月销量是：29580
+GMT+8:2018-10-26 12:22:51, TID:50856 Thread-380, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 1436}
+GMT+8:2018-10-26 12:22:51, TID:50856 Thread-380, MSG:, 类别是：Home & Garden, 爬虫的状态是：1, 当前时间戳是：1540527771055, 销量排名是：10, 月销量是：1436
+GMT+8:2018-10-26 12:22:51, TID:67252 Thread-379, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 1447}
+GMT+8:2018-10-26 12:22:51, TID:67252 Thread-379, MSG:, 类别是：Home & Garden, 爬虫的状态是：1, 当前时间戳是：1540527771060, 销量排名是：9, 月销量是：1447
+GMT+8:2018-10-26 12:22:51, TID:16456 Thread-386, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 1395}
+GMT+8:2018-10-26 12:22:51, TID:16456 Thread-386, MSG:, 类别是：Home & Garden, 爬虫的状态是：1, 当前时间戳是：1540527771104, 销量排名是：15, 月销量是：1395
+GMT+8:2018-10-26 12:22:51, TID:26260 Thread-397, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 25290}
+GMT+8:2018-10-26 12:22:51, TID:26260 Thread-397, MSG:, 类别是：Home & Kitchen, 爬虫的状态是：1, 当前时间戳是：1540527771364, 销量排名是：1, 月销量是：25290
+GMT+8:2018-10-26 12:22:51, TID:46288 Thread-399, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 23190}
+GMT+8:2018-10-26 12:22:51, TID:46288 Thread-399, MSG:, 类别是：Home & Kitchen, 爬虫的状态是：1, 当前时间戳是：1540527771376, 销量排名是：3, 月销量是：23190
+GMT+8:2018-10-26 12:22:51, TID:64092 Thread-400, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 22530}
+GMT+8:2018-10-26 12:22:51, TID:64092 Thread-400, MSG:, 类别是：Home & Kitchen, 爬虫的状态是：1, 当前时间戳是：1540527771386, 销量排名是：4, 月销量是：22530
+GMT+8:2018-10-26 12:22:51, TID:46656 Thread-398, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 24030}
+GMT+8:2018-10-26 12:22:51, TID:46656 Thread-398, MSG:, 类别是：Home & Kitchen, 爬虫的状态是：1, 当前时间戳是：1540527771428, 销量排名是：2, 月销量是：24030
+GMT+8:2018-10-26 12:22:51, TID:49544 Thread-401, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 22020}
+GMT+8:2018-10-26 12:22:51, TID:49544 Thread-401, MSG:, 类别是：Home & Kitchen, 爬虫的状态是：1, 当前时间戳是：1540527771459, 销量排名是：5, 月销量是：22020
+GMT+8:2018-10-26 12:22:51, TID:66880 Thread-408, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 21150}
+GMT+8:2018-10-26 12:22:51, TID:66880 Thread-408, MSG:, 类别是：Home & Kitchen, 爬虫的状态是：1, 当前时间戳是：1540527771479, 销量排名是：7, 月销量是：21150
+GMT+8:2018-10-26 12:22:51, TID:52680 Thread-410, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 20460}
+GMT+8:2018-10-26 12:22:51, TID:52680 Thread-410, MSG:, 类别是：Home & Kitchen, 爬虫的状态是：1, 当前时间戳是：1540527771500, 销量排名是：9, 月销量是：20460
+GMT+8:2018-10-26 12:22:51, TID:45784 Thread-409, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 20790}
+GMT+8:2018-10-26 12:22:51, TID:45784 Thread-409, MSG:, 类别是：Home & Kitchen, 爬虫的状态是：1, 当前时间戳是：1540527771543, 销量排名是：8, 月销量是：20790
+GMT+8:2018-10-26 12:22:51, TID:56988 Thread-407, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 21540}
+GMT+8:2018-10-26 12:22:51, TID:56988 Thread-407, MSG:, 类别是：Home & Kitchen, 爬虫的状态是：1, 当前时间戳是：1540527771552, 销量排名是：6, 月销量是：21540
+GMT+8:2018-10-26 12:22:51, TID:48840 Thread-417, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 18990}
+GMT+8:2018-10-26 12:22:51, TID:48840 Thread-417, MSG:, 类别是：Home & Kitchen, 爬虫的状态是：1, 当前时间戳是：1540527771606, 销量排名是：15, 月销量是：18990
+GMT+8:2018-10-26 12:22:51, TID:50576 Thread-411, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 20160}
+GMT+8:2018-10-26 12:22:51, TID:50576 Thread-411, MSG:, 类别是：Home & Kitchen, 爬虫的状态是：1, 当前时间戳是：1540527771620, 销量排名是：10, 月销量是：20160
+GMT+8:2018-10-26 12:22:51, TID:66976 Thread-429, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 3257}
+GMT+8:2018-10-26 12:22:51, TID:66976 Thread-429, MSG:, 类别是：Home Improvement, 爬虫的状态是：1, 当前时间戳是：1540527771785, 销量排名是：2, 月销量是：3257
+GMT+8:2018-10-26 12:22:51, TID:64592 Thread-431, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 3215}
+GMT+8:2018-10-26 12:22:51, TID:64592 Thread-431, MSG:, 类别是：Home Improvement, 爬虫的状态是：1, 当前时间戳是：1540527771786, 销量排名是：4, 月销量是：3215
+GMT+8:2018-10-26 12:22:51, TID:44952 Thread-428, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 3300}
+GMT+8:2018-10-26 12:22:51, TID:44952 Thread-428, MSG:, 类别是：Home Improvement, 爬虫的状态是：1, 当前时间戳是：1540527771798, 销量排名是：1, 月销量是：3300
+GMT+8:2018-10-26 12:22:51, TID:68320 Thread-432, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 3201}
+GMT+8:2018-10-26 12:22:51, TID:68320 Thread-432, MSG:, 类别是：Home Improvement, 爬虫的状态是：1, 当前时间戳是：1540527771802, 销量排名是：5, 月销量是：3201
+GMT+8:2018-10-26 12:22:51, TID:68512 Thread-430, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 3232}
+GMT+8:2018-10-26 12:22:51, TID:68512 Thread-430, MSG:, 类别是：Home Improvement, 爬虫的状态是：1, 当前时间戳是：1540527771886, 销量排名是：3, 月销量是：3232
+GMT+8:2018-10-26 12:22:51, TID:67544 Thread-441, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 3165}
+GMT+8:2018-10-26 12:22:51, TID:67544 Thread-441, MSG:, 类别是：Home Improvement, 爬虫的状态是：1, 当前时间戳是：1540527771909, 销量排名是：9, 月销量是：3165
+GMT+8:2018-10-26 12:22:51, TID:48628 Thread-438, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 3190}
+GMT+8:2018-10-26 12:22:51, TID:48628 Thread-438, MSG:, 类别是：Home Improvement, 爬虫的状态是：1, 当前时间戳是：1540527771965, 销量排名是：6, 月销量是：3190
+GMT+8:2018-10-26 12:22:51, TID:46976 Thread-440, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 3172}
+GMT+8:2018-10-26 12:22:51, TID:46976 Thread-440, MSG:, 类别是：Home Improvement, 爬虫的状态是：1, 当前时间戳是：1540527771966, 销量排名是：8, 月销量是：3172
+GMT+8:2018-10-26 12:22:51, TID:48828 Thread-439, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 3180}
+GMT+8:2018-10-26 12:22:51, TID:48828 Thread-439, MSG:, 类别是：Home Improvement, 爬虫的状态是：1, 当前时间戳是：1540527771968, 销量排名是：7, 月销量是：3180
+GMT+8:2018-10-26 12:22:52, TID:49084 Thread-448, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 3134}
+GMT+8:2018-10-26 12:22:52, TID:49084 Thread-448, MSG:, 类别是：Home Improvement, 爬虫的状态是：1, 当前时间戳是：1540527772082, 销量排名是：15, 月销量是：3134
+GMT+8:2018-10-26 12:22:52, TID:67856 Thread-463, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 9240}
+GMT+8:2018-10-26 12:22:52, TID:67856 Thread-463, MSG:, 类别是：Industrial & Scientific, 爬虫的状态是：1, 当前时间戳是：1540527772260, 销量排名是：5, 月销量是：9240
+GMT+8:2018-10-26 12:22:52, TID:106948 Thread-461, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 10500}
+GMT+8:2018-10-26 12:22:52, TID:106948 Thread-461, MSG:, 类别是：Industrial & Scientific, 爬虫的状态是：1, 当前时间戳是：1540527772264, 销量排名是：3, 月销量是：10500
+GMT+8:2018-10-26 12:22:52, TID:52156 Thread-460, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 11520}
+GMT+8:2018-10-26 12:22:52, TID:52156 Thread-460, MSG:, 类别是：Industrial & Scientific, 爬虫的状态是：1, 当前时间戳是：1540527772266, 销量排名是：2, 月销量是：11520
+GMT+8:2018-10-26 12:22:52, TID:91420 Thread-462, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 9780}
+GMT+8:2018-10-26 12:22:52, TID:91420 Thread-462, MSG:, 类别是：Industrial & Scientific, 爬虫的状态是：1, 当前时间戳是：1540527772275, 销量排名是：4, 月销量是：9780
+GMT+8:2018-10-26 12:22:52, TID:20368 Thread-459, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 13200}
+GMT+8:2018-10-26 12:22:52, TID:20368 Thread-459, MSG:, 类别是：Industrial & Scientific, 爬虫的状态是：1, 当前时间戳是：1540527772327, 销量排名是：1, 月销量是：13200
+GMT+8:2018-10-26 12:22:52, TID:44420 Thread-442, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 3159}
+GMT+8:2018-10-26 12:22:52, TID:44420 Thread-442, MSG:, 类别是：Home Improvement, 爬虫的状态是：1, 当前时间戳是：1540527772359, 销量排名是：10, 月销量是：3159
+GMT+8:2018-10-26 12:22:52, TID:66720 Thread-470, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 8400}
+GMT+8:2018-10-26 12:22:52, TID:66720 Thread-470, MSG:, 类别是：Industrial & Scientific, 爬虫的状态是：1, 当前时间戳是：1540527772383, 销量排名是：7, 月销量是：8400
+GMT+8:2018-10-26 12:22:52, TID:66804 Thread-471, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 8070}
+GMT+8:2018-10-26 12:22:52, TID:66544 Thread-473, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 7530}
+GMT+8:2018-10-26 12:22:52, TID:66804 Thread-471, MSG:, 类别是：Industrial & Scientific, 爬虫的状态是：1, 当前时间戳是：1540527772399, 销量排名是：8, 月销量是：8070
+GMT+8:2018-10-26 12:22:52, TID:66544 Thread-473, MSG:, 类别是：Industrial & Scientific, 爬虫的状态是：1, 当前时间戳是：1540527772399, 销量排名是：10, 月销量是：7530
+GMT+8:2018-10-26 12:22:52, TID:110832 Thread-472, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 7770}
+GMT+8:2018-10-26 12:22:52, TID:110832 Thread-472, MSG:, 类别是：Industrial & Scientific, 爬虫的状态是：1, 当前时间戳是：1540527772449, 销量排名是：9, 月销量是：7770
+GMT+8:2018-10-26 12:22:52, TID:53048 Thread-479, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 6570}
+GMT+8:2018-10-26 12:22:52, TID:53048 Thread-479, MSG:, 类别是：Industrial & Scientific, 爬虫的状态是：1, 当前时间戳是：1540527772495, 销量排名是：15, 月销量是：6570
+GMT+8:2018-10-26 12:22:52, TID:60776 Thread-490, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 5580}
+GMT+8:2018-10-26 12:22:52, TID:60776 Thread-490, MSG:, 类别是：Kindle Store, 爬虫的状态是：1, 当前时间戳是：1540527772688, 销量排名是：1, 月销量是：5580
+GMT+8:2018-10-26 12:22:52, TID:67136 Thread-469, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 8790}
+GMT+8:2018-10-26 12:22:52, TID:67136 Thread-469, MSG:, 类别是：Industrial & Scientific, 爬虫的状态是：1, 当前时间戳是：1540527772746, 销量排名是：6, 月销量是：8790
+GMT+8:2018-10-26 12:22:52, TID:22560 Thread-493, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 4423}
+GMT+8:2018-10-26 12:22:52, TID:22560 Thread-493, MSG:, 类别是：Kindle Store, 爬虫的状态是：1, 当前时间戳是：1540527772753, 销量排名是：4, 月销量是：4423
+GMT+8:2018-10-26 12:22:52, TID:67080 Thread-494, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 4250}
+GMT+8:2018-10-26 12:22:52, TID:67080 Thread-494, MSG:, 类别是：Kindle Store, 爬虫的状态是：1, 当前时间戳是：1540527772755, 销量排名是：5, 月销量是：4250
+GMT+8:2018-10-26 12:22:52, TID:62012 Thread-492, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 4652}
+GMT+8:2018-10-26 12:22:52, TID:62012 Thread-492, MSG:, 类别是：Kindle Store, 爬虫的状态是：1, 当前时间戳是：1540527772762, 销量排名是：3, 月销量是：4652
+GMT+8:2018-10-26 12:22:52, TID:43944 Thread-500, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 4111}
+GMT+8:2018-10-26 12:22:52, TID:43944 Thread-500, MSG:, 类别是：Kindle Store, 爬虫的状态是：1, 当前时间戳是：1540527772811, 销量排名是：6, 月销量是：4111
+GMT+8:2018-10-26 12:22:52, TID:67716 Thread-502, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 3895}
+GMT+8:2018-10-26 12:22:52, TID:67716 Thread-502, MSG:, 类别是：Kindle Store, 爬虫的状态是：1, 当前时间戳是：1540527772818, 销量排名是：8, 月销量是：3895
+GMT+8:2018-10-26 12:22:52, TID:64720 Thread-501, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 3995}
+GMT+8:2018-10-26 12:22:52, TID:64720 Thread-501, MSG:, 类别是：Kindle Store, 爬虫的状态是：1, 当前时间戳是：1540527772869, 销量排名是：7, 月销量是：3995
+GMT+8:2018-10-26 12:22:52, TID:66356 Thread-503, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 3809}
+GMT+8:2018-10-26 12:22:52, TID:66356 Thread-503, MSG:, 类别是：Kindle Store, 爬虫的状态是：1, 当前时间戳是：1540527772877, 销量排名是：9, 月销量是：3809
+GMT+8:2018-10-26 12:22:52, TID:67864 Thread-510, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 3446}
+GMT+8:2018-10-26 12:22:52, TID:67864 Thread-510, MSG:, 类别是：Kindle Store, 爬虫的状态是：1, 当前时间戳是：1540527772928, 销量排名是：15, 月销量是：3446
+GMT+8:2018-10-26 12:22:52, TID:68056 Thread-504, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 3733}
+GMT+8:2018-10-26 12:22:52, TID:68056 Thread-504, MSG:, 类别是：Kindle Store, 爬虫的状态是：1, 当前时间戳是：1540527772962, 销量排名是：10, 月销量是：3733
+GMT+8:2018-10-26 12:22:53, TID:65312 Thread-523, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 22350}
+GMT+8:2018-10-26 12:22:53, TID:65312 Thread-523, MSG:, 类别是：Kitchen & Dining, 爬虫的状态是：1, 当前时间戳是：1540527773189, 销量排名是：3, 月销量是：22350
+GMT+8:2018-10-26 12:22:53, TID:64732 Thread-521, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 25290}
+GMT+8:2018-10-26 12:22:53, TID:64732 Thread-521, MSG:, 类别是：Kitchen & Dining, 爬虫的状态是：1, 当前时间戳是：1540527773195, 销量排名是：1, 月销量是：25290
+GMT+8:2018-10-26 12:22:53, TID:62316 Thread-524, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 21450}
+GMT+8:2018-10-26 12:22:53, TID:62316 Thread-524, MSG:, 类别是：Kitchen & Dining, 爬虫的状态是：1, 当前时间戳是：1540527773241, 销量排名是：4, 月销量是：21450
+GMT+8:2018-10-26 12:22:53, TID:65784 Thread-522, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 23520}
+GMT+8:2018-10-26 12:22:53, TID:65784 Thread-522, MSG:, 类别是：Kitchen & Dining, 爬虫的状态是：1, 当前时间戳是：1540527773262, 销量排名是：2, 月销量是：23520
+GMT+8:2018-10-26 12:22:53, TID:70504 Thread-531, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 20130}
+GMT+8:2018-10-26 12:22:53, TID:70504 Thread-531, MSG:, 类别是：Kitchen & Dining, 爬虫的状态是：1, 当前时间戳是：1540527773295, 销量排名是：6, 月销量是：20130
+GMT+8:2018-10-26 12:22:53, TID:66928 Thread-533, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 19110}
+GMT+8:2018-10-26 12:22:53, TID:66928 Thread-533, MSG:, 类别是：Kitchen & Dining, 爬虫的状态是：1, 当前时间戳是：1540527773304, 销量排名是：8, 月销量是：19110
+GMT+8:2018-10-26 12:22:53, TID:63528 Thread-525, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 20730}
+GMT+8:2018-10-26 12:22:53, TID:63528 Thread-525, MSG:, 类别是：Kitchen & Dining, 爬虫的状态是：1, 当前时间戳是：1540527773317, 销量排名是：5, 月销量是：20730
+GMT+8:2018-10-26 12:22:53, TID:69040 Thread-535, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 18330}
+GMT+8:2018-10-26 12:22:53, TID:69040 Thread-535, MSG:, 类别是：Kitchen & Dining, 爬虫的状态是：1, 当前时间戳是：1540527773332, 销量排名是：10, 月销量是：18330
+GMT+8:2018-10-26 12:22:53, TID:62340 Thread-532, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 19590}
+GMT+8:2018-10-26 12:22:53, TID:62340 Thread-532, MSG:, 类别是：Kitchen & Dining, 爬虫的状态是：1, 当前时间戳是：1540527773355, 销量排名是：7, 月销量是：19590
+GMT+8:2018-10-26 12:22:53, TID:69184 Thread-534, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 18690}
+GMT+8:2018-10-26 12:22:53, TID:69184 Thread-534, MSG:, 类别是：Kitchen & Dining, 爬虫的状态是：1, 当前时间戳是：1540527773368, 销量排名是：9, 月销量是：18690
+GMT+8:2018-10-26 12:22:53, TID:39868 Thread-541, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 16830}
+GMT+8:2018-10-26 12:22:53, TID:39868 Thread-541, MSG:, 类别是：Kitchen & Dining, 爬虫的状态是：1, 当前时间戳是：1540527773422, 销量排名是：15, 月销量是：16830
+GMT+8:2018-10-26 12:22:53, TID:64748 Thread-491, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 4985}
+GMT+8:2018-10-26 12:22:53, TID:64748 Thread-491, MSG:, 类别是：Kindle Store, 爬虫的状态是：1, 当前时间戳是：1540527773426, 销量排名是：2, 月销量是：4985
+GMT+8:2018-10-26 12:22:53, TID:63044 Thread-552, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 1020}
+GMT+8:2018-10-26 12:22:53, TID:63044 Thread-552, MSG:, 类别是：Music, 爬虫的状态是：1, 当前时间戳是：1540527773600, 销量排名是：1, 月销量是：1020
+GMT+8:2018-10-26 12:22:53, TID:67104 Thread-554, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 996}
+GMT+8:2018-10-26 12:22:53, TID:67104 Thread-554, MSG:, 类别是：Music, 爬虫的状态是：1, 当前时间戳是：1540527773610, 销量排名是：3, 月销量是：996
+GMT+8:2018-10-26 12:22:53, TID:68256 Thread-555, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 990}
+GMT+8:2018-10-26 12:22:53, TID:68256 Thread-555, MSG:, 类别是：Music, 爬虫的状态是：1, 当前时间戳是：1540527773611, 销量排名是：4, 月销量是：990
+GMT+8:2018-10-26 12:22:53, TID:63668 Thread-556, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 979}
+GMT+8:2018-10-26 12:22:53, TID:63668 Thread-556, MSG:, 类别是：Music, 爬虫的状态是：1, 当前时间戳是：1540527773617, 销量排名是：5, 月销量是：979
+GMT+8:2018-10-26 12:22:53, TID:68516 Thread-553, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 1005}
+GMT+8:2018-10-26 12:22:53, TID:68516 Thread-553, MSG:, 类别是：Music, 爬虫的状态是：1, 当前时间戳是：1540527773658, 销量排名是：2, 月销量是：1005
+GMT+8:2018-10-26 12:22:53, TID:38636 Thread-563, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 961}
+GMT+8:2018-10-26 12:22:53, TID:38636 Thread-563, MSG:, 类别是：Music, 爬虫的状态是：1, 当前时间戳是：1540527773723, 销量排名是：7, 月销量是：961
+GMT+8:2018-10-26 12:22:53, TID:97348 Thread-564, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 955}
+GMT+8:2018-10-26 12:22:53, TID:97348 Thread-564, MSG:, 类别是：Music, 爬虫的状态是：1, 当前时间戳是：1540527773728, 销量排名是：8, 月销量是：955
+GMT+8:2018-10-26 12:22:53, TID:35800 Thread-562, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 969}
+GMT+8:2018-10-26 12:22:53, TID:35800 Thread-562, MSG:, 类别是：Music, 爬虫的状态是：1, 当前时间戳是：1540527773730, 销量排名是：6, 月销量是：969
+GMT+8:2018-10-26 12:22:53, TID:122304 Thread-565, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 949}
+GMT+8:2018-10-26 12:22:53, TID:122304 Thread-565, MSG:, 类别是：Music, 爬虫的状态是：1, 当前时间戳是：1540527773745, 销量排名是：9, 月销量是：949
+GMT+8:2018-10-26 12:22:53, TID:65532 Thread-572, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 923}
+GMT+8:2018-10-26 12:22:53, TID:65532 Thread-572, MSG:, 类别是：Music, 爬虫的状态是：1, 当前时间戳是：1540527773835, 销量排名是：15, 月销量是：923
+GMT+8:2018-10-26 12:22:53, TID:110192 Thread-566, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 943}
+GMT+8:2018-10-26 12:22:53, TID:110192 Thread-566, MSG:, 类别是：Music, 爬虫的状态是：1, 当前时间戳是：1540527773962, 销量排名是：10, 月销量是：943
+GMT+8:2018-10-26 12:22:54, TID:63480 Thread-586, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 6000}
+GMT+8:2018-10-26 12:22:54, TID:63480 Thread-586, MSG:, 类别是：Musical Instruments, 爬虫的状态是：1, 当前时间戳是：1540527774074, 销量排名是：4, 月销量是：6000
+GMT+8:2018-10-26 12:22:54, TID:69100 Thread-585, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 6390}
+GMT+8:2018-10-26 12:22:54, TID:69100 Thread-585, MSG:, 类别是：Musical Instruments, 爬虫的状态是：1, 当前时间戳是：1540527774093, 销量排名是：3, 月销量是：6390
+GMT+8:2018-10-26 12:22:54, TID:69284 Thread-587, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 5700}
+GMT+8:2018-10-26 12:22:54, TID:69284 Thread-587, MSG:, 类别是：Musical Instruments, 爬虫的状态是：1, 当前时间戳是：1540527774162, 销量排名是：5, 月销量是：5700
+GMT+8:2018-10-26 12:22:54, TID:68100 Thread-583, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 7740}
+GMT+8:2018-10-26 12:22:54, TID:68100 Thread-583, MSG:, 类别是：Musical Instruments, 爬虫的状态是：1, 当前时间戳是：1540527774213, 销量排名是：1, 月销量是：7740
+GMT+8:2018-10-26 12:22:54, TID:7424 Thread-597, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 4740}
+GMT+8:2018-10-26 12:22:54, TID:7424 Thread-597, MSG:, 类别是：Musical Instruments, 爬虫的状态是：1, 当前时间戳是：1540527774233, 销量排名是：10, 月销量是：4740
+GMT+8:2018-10-26 12:22:54, TID:7632 Thread-596, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 4890}
+GMT+8:2018-10-26 12:22:54, TID:7632 Thread-596, MSG:, 类别是：Musical Instruments, 爬虫的状态是：1, 当前时间戳是：1540527774274, 销量排名是：9, 月销量是：4890
+GMT+8:2018-10-26 12:22:54, TID:67784 Thread-584, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 6900}
+GMT+8:2018-10-26 12:22:54, TID:13356 Thread-594, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 5220}
+GMT+8:2018-10-26 12:22:54, TID:13356 Thread-594, MSG:, 类别是：Musical Instruments, 爬虫的状态是：1, 当前时间戳是：1540527774280, 销量排名是：7, 月销量是：5220
+GMT+8:2018-10-26 12:22:54, TID:67784 Thread-584, MSG:, 类别是：Musical Instruments, 爬虫的状态是：1, 当前时间戳是：1540527774280, 销量排名是：2, 月销量是：6900
+GMT+8:2018-10-26 12:22:54, TID:64960 Thread-593, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 5430}
+GMT+8:2018-10-26 12:22:54, TID:64960 Thread-593, MSG:, 类别是：Musical Instruments, 爬虫的状态是：1, 当前时间戳是：1540527774326, 销量排名是：6, 月销量是：5430
+GMT+8:2018-10-26 12:22:54, TID:70060 Thread-603, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 4170}
+GMT+8:2018-10-26 12:22:54, TID:70060 Thread-603, MSG:, 类别是：Musical Instruments, 爬虫的状态是：1, 当前时间戳是：1540527774329, 销量排名是：15, 月销量是：4170
+GMT+8:2018-10-26 12:22:54, TID:69108 Thread-595, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 5040}
+GMT+8:2018-10-26 12:22:54, TID:69108 Thread-595, MSG:, 类别是：Musical Instruments, 爬虫的状态是：1, 当前时间戳是：1540527774361, 销量排名是：8, 月销量是：5040
+GMT+8:2018-10-26 12:22:54, TID:67976 Thread-615, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 53580}
+GMT+8:2018-10-26 12:22:54, TID:67976 Thread-615, MSG:, 类别是：Office Products, 爬虫的状态是：1, 当前时间戳是：1540527774533, 销量排名是：2, 月销量是：53580
+GMT+8:2018-10-26 12:22:54, TID:68016 Thread-614, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 60510}
+GMT+8:2018-10-26 12:22:54, TID:68016 Thread-614, MSG:, 类别是：Office Products, 爬虫的状态是：1, 当前时间戳是：1540527774540, 销量排名是：1, 月销量是：60510
+GMT+8:2018-10-26 12:22:54, TID:63428 Thread-618, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 43860}
+GMT+8:2018-10-26 12:22:54, TID:63428 Thread-618, MSG:, 类别是：Office Products, 爬虫的状态是：1, 当前时间戳是：1540527774589, 销量排名是：5, 月销量是：43860
+GMT+8:2018-10-26 12:22:54, TID:39796 Thread-616, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 49320}
+GMT+8:2018-10-26 12:22:54, TID:66268 Thread-617, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 46260}
+GMT+8:2018-10-26 12:22:54, TID:39796 Thread-616, MSG:, 类别是：Office Products, 爬虫的状态是：1, 当前时间戳是：1540527774608, 销量排名是：3, 月销量是：49320
+GMT+8:2018-10-26 12:22:54, TID:66268 Thread-617, MSG:, 类别是：Office Products, 爬虫的状态是：1, 当前时间戳是：1540527774609, 销量排名是：4, 月销量是：46260
+GMT+8:2018-10-26 12:22:54, TID:64568 Thread-625, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 40230}
+GMT+8:2018-10-26 12:22:54, TID:67772 Thread-624, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 41880}
+GMT+8:2018-10-26 12:22:54, TID:64568 Thread-625, MSG:, 类别是：Office Products, 爬虫的状态是：1, 当前时间戳是：1540527774648, 销量排名是：7, 月销量是：40230
+GMT+8:2018-10-26 12:22:54, TID:67772 Thread-624, MSG:, 类别是：Office Products, 爬虫的状态是：1, 当前时间戳是：1540527774648, 销量排名是：6, 月销量是：41880
+GMT+8:2018-10-26 12:22:54, TID:65028 Thread-627, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 37500}
+GMT+8:2018-10-26 12:22:54, TID:65028 Thread-627, MSG:, 类别是：Office Products, 爬虫的状态是：1, 当前时间戳是：1540527774654, 销量排名是：9, 月销量是：37500
+GMT+8:2018-10-26 12:22:54, TID:69164 Thread-626, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 38790}
+GMT+8:2018-10-26 12:22:54, TID:69164 Thread-626, MSG:, 类别是：Office Products, 爬虫的状态是：1, 当前时间戳是：1540527774718, 销量排名是：8, 月销量是：38790
+GMT+8:2018-10-26 12:22:54, TID:11764 Thread-628, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 36390}
+GMT+8:2018-10-26 12:22:54, TID:11764 Thread-628, MSG:, 类别是：Office Products, 爬虫的状态是：1, 当前时间戳是：1540527774719, 销量排名是：10, 月销量是：36390
+GMT+8:2018-10-26 12:22:54, TID:68776 Thread-634, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 32070}
+GMT+8:2018-10-26 12:22:54, TID:68776 Thread-634, MSG:, 类别是：Office Products, 爬虫的状态是：1, 当前时间戳是：1540527774760, 销量排名是：15, 月销量是：32070
+GMT+8:2018-10-26 12:22:54, TID:60080 Thread-648, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 14730}
+GMT+8:2018-10-26 12:22:54, TID:60080 Thread-648, MSG:, 类别是：Patio, Lawn & Garden, 爬虫的状态是：1, 当前时间戳是：1540527774977, 销量排名是：4, 月销量是：14730
+GMT+8:2018-10-26 12:22:54, TID:67756 Thread-646, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 17340}
+GMT+8:2018-10-26 12:22:54, TID:67756 Thread-646, MSG:, 类别是：Patio, Lawn & Garden, 爬虫的状态是：1, 当前时间戳是：1540527774985, 销量排名是：2, 月销量是：17340
+GMT+8:2018-10-26 12:22:54, TID:68616 Thread-649, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 13860}
+GMT+8:2018-10-26 12:22:54, TID:68616 Thread-649, MSG:, 类别是：Patio, Lawn & Garden, 爬虫的状态是：1, 当前时间戳是：1540527774989, 销量排名是：5, 月销量是：13860
+GMT+8:2018-10-26 12:22:54, TID:59948 Thread-645, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 19920}
+GMT+8:2018-10-26 12:22:54, TID:59948 Thread-645, MSG:, 类别是：Patio, Lawn & Garden, 爬虫的状态是：1, 当前时间戳是：1540527774994, 销量排名是：1, 月销量是：19920
+GMT+8:2018-10-26 12:22:55, TID:63832 Thread-647, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 15810}
+GMT+8:2018-10-26 12:22:55, TID:63832 Thread-647, MSG:, 类别是：Patio, Lawn & Garden, 爬虫的状态是：1, 当前时间戳是：1540527775062, 销量排名是：3, 月销量是：15810
+GMT+8:2018-10-26 12:22:55, TID:47160 Thread-658, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 11700}
+GMT+8:2018-10-26 12:22:55, TID:47160 Thread-658, MSG:, 类别是：Patio, Lawn & Garden, 爬虫的状态是：1, 当前时间戳是：1540527775142, 销量排名是：9, 月销量是：11700
+GMT+8:2018-10-26 12:22:55, TID:67372 Thread-656, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 12630}
+GMT+8:2018-10-26 12:22:55, TID:67372 Thread-656, MSG:, 类别是：Patio, Lawn & Garden, 爬虫的状态是：1, 当前时间戳是：1540527775188, 销量排名是：7, 月销量是：12630
+GMT+8:2018-10-26 12:22:55, TID:68992 Thread-657, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 12120}
+GMT+8:2018-10-26 12:22:55, TID:68992 Thread-657, MSG:, 类别是：Patio, Lawn & Garden, 爬虫的状态是：1, 当前时间戳是：1540527775191, 销量排名是：8, 月销量是：12120
+GMT+8:2018-10-26 12:22:55, TID:63476 Thread-659, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 11310}
+GMT+8:2018-10-26 12:22:55, TID:63476 Thread-659, MSG:, 类别是：Patio, Lawn & Garden, 爬虫的状态是：1, 当前时间戳是：1540527775232, 销量排名是：10, 月销量是：11310
+GMT+8:2018-10-26 12:22:55, TID:68568 Thread-655, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 13200}
+GMT+8:2018-10-26 12:22:55, TID:68568 Thread-655, MSG:, 类别是：Patio, Lawn & Garden, 爬虫的状态是：1, 当前时间戳是：1540527775242, 销量排名是：6, 月销量是：13200
+GMT+8:2018-10-26 12:22:55, TID:43496 Thread-665, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 9870}
+GMT+8:2018-10-26 12:22:55, TID:43496 Thread-665, MSG:, 类别是：Patio, Lawn & Garden, 爬虫的状态是：1, 当前时间戳是：1540527775252, 销量排名是：15, 月销量是：9870
+GMT+8:2018-10-26 12:22:55, TID:44188 Thread-680, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 22680}
+GMT+8:2018-10-26 12:22:55, TID:44188 Thread-680, MSG:, 类别是：Pet Supplies, 爬虫的状态是：1, 当前时间戳是：1540527775485, 销量排名是：5, 月销量是：22680
+GMT+8:2018-10-26 12:22:55, TID:109888 Thread-679, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 23700}
+GMT+8:2018-10-26 12:22:55, TID:109888 Thread-679, MSG:, 类别是：Pet Supplies, 爬虫的状态是：1, 当前时间戳是：1540527775486, 销量排名是：4, 月销量是：23700
+GMT+8:2018-10-26 12:22:55, TID:1060 Thread-677, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 26760}
+GMT+8:2018-10-26 12:22:55, TID:1060 Thread-677, MSG:, 类别是：Pet Supplies, 爬虫的状态是：1, 当前时间戳是：1540527775537, 销量排名是：2, 月销量是：26760
+GMT+8:2018-10-26 12:22:55, TID:24952 Thread-678, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 24990}
+GMT+8:2018-10-26 12:22:55, TID:24952 Thread-678, MSG:, 类别是：Pet Supplies, 爬虫的状态是：1, 当前时间戳是：1540527775548, 销量排名是：3, 月销量是：24990
+GMT+8:2018-10-26 12:22:55, TID:65572 Thread-689, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 19860}
+GMT+8:2018-10-26 12:22:55, TID:65572 Thread-689, MSG:, 类别是：Pet Supplies, 爬虫的状态是：1, 当前时间戳是：1540527775611, 销量排名是：9, 月销量是：19860
+GMT+8:2018-10-26 12:22:55, TID:71292 Thread-690, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 19350}
+GMT+8:2018-10-26 12:22:55, TID:71292 Thread-690, MSG:, 类别是：Pet Supplies, 爬虫的状态是：1, 当前时间戳是：1540527775617, 销量排名是：10, 月销量是：19350
+GMT+8:2018-10-26 12:22:55, TID:68880 Thread-686, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 21810}
+GMT+8:2018-10-26 12:22:55, TID:68880 Thread-686, MSG:, 类别是：Pet Supplies, 爬虫的状态是：1, 当前时间戳是：1540527775648, 销量排名是：6, 月销量是：21810
+GMT+8:2018-10-26 12:22:55, TID:70596 Thread-688, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 20430}
+GMT+8:2018-10-26 12:22:55, TID:70596 Thread-688, MSG:, 类别是：Pet Supplies, 爬虫的状态是：1, 当前时间戳是：1540527775656, 销量排名是：8, 月销量是：20430
+GMT+8:2018-10-26 12:22:55, TID:59200 Thread-687, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 21090}
+GMT+8:2018-10-26 12:22:55, TID:59200 Thread-687, MSG:, 类别是：Pet Supplies, 爬虫的状态是：1, 当前时间戳是：1540527775660, 销量排名是：7, 月销量是：21090
+GMT+8:2018-10-26 12:22:55, TID:65924 Thread-696, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 17370}
+GMT+8:2018-10-26 12:22:55, TID:65924 Thread-696, MSG:, 类别是：Pet Supplies, 爬虫的状态是：1, 当前时间戳是：1540527775693, 销量排名是：15, 月销量是：17370
+GMT+8:2018-10-26 12:22:55, TID:69344 Thread-709, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 3600}
+GMT+8:2018-10-26 12:22:55, TID:69344 Thread-709, MSG:, 类别是：Software, 爬虫的状态是：1, 当前时间戳是：1540527775920, 销量排名是：3, 月销量是：3600
+GMT+8:2018-10-26 12:22:55, TID:68468 Thread-707, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 5010}
+GMT+8:2018-10-26 12:22:55, TID:68468 Thread-707, MSG:, 类别是：Software, 爬虫的状态是：1, 当前时间戳是：1540527775922, 销量排名是：1, 月销量是：5010
+GMT+8:2018-10-26 12:22:55, TID:65984 Thread-708, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 4140}
+GMT+8:2018-10-26 12:22:55, TID:65984 Thread-708, MSG:, 类别是：Software, 爬虫的状态是：1, 当前时间戳是：1540527775937, 销量排名是：2, 月销量是：4140
+GMT+8:2018-10-26 12:22:55, TID:118560 Thread-711, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 2940}
+GMT+8:2018-10-26 12:22:55, TID:118560 Thread-711, MSG:, 类别是：Software, 爬虫的状态是：1, 当前时间戳是：1540527775959, 销量排名是：5, 月销量是：2940
+GMT+8:2018-10-26 12:22:56, TID:52036 Thread-710, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 3240}
+GMT+8:2018-10-26 12:22:56, TID:52036 Thread-710, MSG:, 类别是：Software, 爬虫的状态是：1, 当前时间戳是：1540527776010, 销量排名是：4, 月销量是：3240
+GMT+8:2018-10-26 12:22:56, TID:89340 Thread-719, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 2340}
+GMT+8:2018-10-26 12:22:56, TID:89340 Thread-719, MSG:, 类别是：Software, 爬虫的状态是：1, 当前时间戳是：1540527776064, 销量排名是：8, 月销量是：2340
+GMT+8:2018-10-26 12:22:56, TID:66488 Thread-720, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 2190}
+GMT+8:2018-10-26 12:22:56, TID:66488 Thread-720, MSG:, 类别是：Software, 爬虫的状态是：1, 当前时间戳是：1540527776097, 销量排名是：9, 月销量是：2190
+GMT+8:2018-10-26 12:22:56, TID:116632 Thread-717, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 2700}
+GMT+8:2018-10-26 12:22:56, TID:105152 Thread-718, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 2490}
+GMT+8:2018-10-26 12:22:56, TID:108808 Thread-721, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 2070}
+GMT+8:2018-10-26 12:22:56, TID:116632 Thread-717, MSG:, 类别是：Software, 爬虫的状态是：1, 当前时间戳是：1540527776113, 销量排名是：6, 月销量是：2700
+GMT+8:2018-10-26 12:22:56, TID:105152 Thread-718, MSG:, 类别是：Software, 爬虫的状态是：1, 当前时间戳是：1540527776113, 销量排名是：7, 月销量是：2490
+GMT+8:2018-10-26 12:22:56, TID:108808 Thread-721, MSG:, 类别是：Software, 爬虫的状态是：1, 当前时间戳是：1540527776114, 销量排名是：10, 月销量是：2070
+GMT+8:2018-10-26 12:22:56, TID:70816 Thread-727, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 1620}
+GMT+8:2018-10-26 12:22:56, TID:70816 Thread-727, MSG:, 类别是：Software, 爬虫的状态是：1, 当前时间戳是：1540527776165, 销量排名是：15, 月销量是：1620
+GMT+8:2018-10-26 12:22:56, TID:37488 Thread-741, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 24450}
+GMT+8:2018-10-26 12:22:56, TID:37488 Thread-741, MSG:, 类别是：Sports & Outdoors, 爬虫的状态是：1, 当前时间戳是：1540527776399, 销量排名是：4, 月销量是：24450
+GMT+8:2018-10-26 12:22:56, TID:39932 Thread-740, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 25830}
+GMT+8:2018-10-26 12:22:56, TID:68444 Thread-742, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 23370}
+GMT+8:2018-10-26 12:22:56, TID:39932 Thread-740, MSG:, 类别是：Sports & Outdoors, 爬虫的状态是：1, 当前时间戳是：1540527776419, 销量排名是：3, 月销量是：25830
+GMT+8:2018-10-26 12:22:56, TID:68444 Thread-742, MSG:, 类别是：Sports & Outdoors, 爬虫的状态是：1, 当前时间戳是：1540527776420, 销量排名是：5, 月销量是：23370
+GMT+8:2018-10-26 12:22:56, TID:67300 Thread-738, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 30720}
+GMT+8:2018-10-26 12:22:56, TID:68288 Thread-739, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 27720}
+GMT+8:2018-10-26 12:22:56, TID:67300 Thread-738, MSG:, 类别是：Sports & Outdoors, 爬虫的状态是：1, 当前时间戳是：1540527776470, 销量排名是：1, 月销量是：30720
+GMT+8:2018-10-26 12:22:56, TID:68288 Thread-739, MSG:, 类别是：Sports & Outdoors, 爬虫的状态是：1, 当前时间戳是：1540527776471, 销量排名是：2, 月销量是：27720
+GMT+8:2018-10-26 12:22:56, TID:14764 Thread-748, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 22470}
+GMT+8:2018-10-26 12:22:56, TID:14764 Thread-748, MSG:, 类别是：Sports & Outdoors, 爬虫的状态是：1, 当前时间戳是：1540527776506, 销量排名是：6, 月销量是：22470
+GMT+8:2018-10-26 12:22:56, TID:71396 Thread-752, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 19920}
+GMT+8:2018-10-26 12:22:56, TID:71396 Thread-752, MSG:, 类别是：Sports & Outdoors, 爬虫的状态是：1, 当前时间戳是：1540527776565, 销量排名是：10, 月销量是：19920
+GMT+8:2018-10-26 12:22:56, TID:66884 Thread-749, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 21720}
+GMT+8:2018-10-26 12:22:56, TID:66884 Thread-749, MSG:, 类别是：Sports & Outdoors, 爬虫的状态是：1, 当前时间戳是：1540527776575, 销量排名是：7, 月销量是：21720
+GMT+8:2018-10-26 12:22:56, TID:70144 Thread-750, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 21030}
+GMT+8:2018-10-26 12:22:56, TID:70144 Thread-750, MSG:, 类别是：Sports & Outdoors, 爬虫的状态是：1, 当前时间戳是：1540527776576, 销量排名是：8, 月销量是：21030
+GMT+8:2018-10-26 12:22:56, TID:67800 Thread-751, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 20460}
+GMT+8:2018-10-26 12:22:56, TID:67800 Thread-751, MSG:, 类别是：Sports & Outdoors, 爬虫的状态是：1, 当前时间戳是：1540527776584, 销量排名是：9, 月销量是：20460
+GMT+8:2018-10-26 12:22:56, TID:65792 Thread-758, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 17880}
+GMT+8:2018-10-26 12:22:56, TID:65792 Thread-758, MSG:, 类别是：Sports & Outdoors, 爬虫的状态是：1, 当前时间戳是：1540527776677, 销量排名是：15, 月销量是：17880
+GMT+8:2018-10-26 12:22:56, TID:100592 Thread-771, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 16740}
+GMT+8:2018-10-26 12:22:56, TID:100592 Thread-771, MSG:, 类别是：Toys & Games, 爬虫的状态是：1, 当前时间戳是：1540527776837, 销量排名是：3, 月销量是：16740
+GMT+8:2018-10-26 12:22:56, TID:122784 Thread-769, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 20070}
+GMT+8:2018-10-26 12:22:56, TID:122784 Thread-769, MSG:, 类别是：Toys & Games, 爬虫的状态是：1, 当前时间戳是：1540527776841, 销量排名是：1, 月销量是：20070
+GMT+8:2018-10-26 12:22:56, TID:30016 Thread-770, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 18000}
+GMT+8:2018-10-26 12:22:56, TID:30016 Thread-770, MSG:, 类别是：Toys & Games, 爬虫的状态是：1, 当前时间戳是：1540527776846, 销量排名是：2, 月销量是：18000
+GMT+8:2018-10-26 12:22:56, TID:84644 Thread-772, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 15810}
+GMT+8:2018-10-26 12:22:56, TID:84644 Thread-772, MSG:, 类别是：Toys & Games, 爬虫的状态是：1, 当前时间戳是：1540527776905, 销量排名是：4, 月销量是：15810
+GMT+8:2018-10-26 12:22:56, TID:74804 Thread-773, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 15090}
+GMT+8:2018-10-26 12:22:56, TID:74804 Thread-773, MSG:, 类别是：Toys & Games, 爬虫的状态是：1, 当前时间戳是：1540527776913, 销量排名是：5, 月销量是：15090
+GMT+8:2018-10-26 12:22:56, TID:68472 Thread-779, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 14490}
+GMT+8:2018-10-26 12:22:56, TID:68472 Thread-779, MSG:, 类别是：Toys & Games, 爬虫的状态是：1, 当前时间戳是：1540527776956, 销量排名是：6, 月销量是：14490
+GMT+8:2018-10-26 12:22:56, TID:16180 Thread-782, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 13170}
+GMT+8:2018-10-26 12:22:56, TID:16180 Thread-782, MSG:, 类别是：Toys & Games, 爬虫的状态是：1, 当前时间戳是：1540527776966, 销量排名是：9, 月销量是：13170
+GMT+8:2018-10-26 12:22:56, TID:118344 Thread-783, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 12840}
+GMT+8:2018-10-26 12:22:56, TID:118344 Thread-783, MSG:, 类别是：Toys & Games, 爬虫的状态是：1, 当前时间戳是：1540527776987, 销量排名是：10, 月销量是：12840
+GMT+8:2018-10-26 12:22:57, TID:122316 Thread-780, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 14010}
+GMT+8:2018-10-26 12:22:57, TID:122316 Thread-780, MSG:, 类别是：Toys & Games, 爬虫的状态是：1, 当前时间戳是：1540527777016, 销量排名是：7, 月销量是：14010
+GMT+8:2018-10-26 12:22:57, TID:6296 Thread-781, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 13560}
+GMT+8:2018-10-26 12:22:57, TID:6296 Thread-781, MSG:, 类别是：Toys & Games, 爬虫的状态是：1, 当前时间戳是：1540527777031, 销量排名是：8, 月销量是：13560
+GMT+8:2018-10-26 12:22:57, TID:59220 Thread-789, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 11520}
+GMT+8:2018-10-26 12:22:57, TID:59220 Thread-789, MSG:, 类别是：Toys & Games, 爬虫的状态是：1, 当前时间戳是：1540527777076, 销量排名是：15, 月销量是：11520
+GMT+8:2018-10-26 12:22:57, TID:70104 Thread-800, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 32640}
+GMT+8:2018-10-26 12:22:57, TID:70104 Thread-800, MSG:, 类别是：Video Games, 爬虫的状态是：1, 当前时间戳是：1540527777314, 销量排名是：1, 月销量是：32640
+GMT+8:2018-10-26 12:22:57, TID:67316 Thread-801, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 27270}
+GMT+8:2018-10-26 12:22:57, TID:67316 Thread-801, MSG:, 类别是：Video Games, 爬虫的状态是：1, 当前时间戳是：1540527777330, 销量排名是：2, 月销量是：27270
+GMT+8:2018-10-26 12:22:57, TID:44736 Thread-804, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 20130}
+GMT+8:2018-10-26 12:22:57, TID:44736 Thread-804, MSG:, 类别是：Video Games, 爬虫的状态是：1, 当前时间戳是：1540527777363, 销量排名是：5, 月销量是：20130
+GMT+8:2018-10-26 12:22:57, TID:44668 Thread-803, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 21840}
+GMT+8:2018-10-26 12:22:57, TID:40080 Thread-802, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 24090}
+GMT+8:2018-10-26 12:22:57, TID:44668 Thread-803, MSG:, 类别是：Video Games, 爬虫的状态是：1, 当前时间戳是：1540527777373, 销量排名是：4, 月销量是：21840
+GMT+8:2018-10-26 12:22:57, TID:40080 Thread-802, MSG:, 类别是：Video Games, 爬虫的状态是：1, 当前时间戳是：1540527777373, 销量排名是：3, 月销量是：24090
+GMT+8:2018-10-26 12:22:57, TID:25676 Thread-811, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 17610}
+GMT+8:2018-10-26 12:22:57, TID:25676 Thread-811, MSG:, 类别是：Video Games, 爬虫的状态是：1, 当前时间戳是：1540527777438, 销量排名是：7, 月销量是：17610
+GMT+8:2018-10-26 12:22:57, TID:43004 Thread-813, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 15780}
+GMT+8:2018-10-26 12:22:57, TID:43004 Thread-813, MSG:, 类别是：Video Games, 爬虫的状态是：1, 当前时间戳是：1540527777440, 销量排名是：9, 月销量是：15780
+GMT+8:2018-10-26 12:22:57, TID:120524 Thread-810, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 18750}
+GMT+8:2018-10-26 12:22:57, TID:120524 Thread-810, MSG:, 类别是：Video Games, 爬虫的状态是：1, 当前时间戳是：1540527777483, 销量排名是：6, 月销量是：18750
+GMT+8:2018-10-26 12:22:57, TID:85792 Thread-814, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 15060}
+GMT+8:2018-10-26 12:22:57, TID:85792 Thread-814, MSG:, 类别是：Video Games, 爬虫的状态是：1, 当前时间戳是：1540527777487, 销量排名是：10, 月销量是：15060
+GMT+8:2018-10-26 12:22:57, TID:86596 Thread-812, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 16620}
+GMT+8:2018-10-26 12:22:57, TID:86596 Thread-812, MSG:, 类别是：Video Games, 爬虫的状态是：1, 当前时间戳是：1540527777499, 销量排名是：8, 月销量是：16620
+GMT+8:2018-10-26 12:22:57, TID:15800 Thread-820, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 12330}
+GMT+8:2018-10-26 12:22:57, TID:15800 Thread-820, MSG:, 类别是：Video Games, 爬虫的状态是：1, 当前时间戳是：1540527777616, 销量排名是：15, 月销量是：12330
+GMT+8:2018-10-26 12:22:57, TID:23528 Thread-831, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 8220}
+GMT+8:2018-10-26 12:22:57, TID:34780 Thread-835, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 6231}
+GMT+8:2018-10-26 12:22:57, TID:23528 Thread-831, MSG:, 类别是：Watches, 爬虫的状态是：1, 当前时间戳是：1540527777741, 销量排名是：1, 月销量是：8220
+GMT+8:2018-10-26 12:22:57, TID:34780 Thread-835, MSG:, 类别是：Watches, 爬虫的状态是：1, 当前时间戳是：1540527777742, 销量排名是：5, 月销量是：6231
+GMT+8:2018-10-26 12:22:57, TID:29476 Thread-834, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 6491}
+GMT+8:2018-10-26 12:22:57, TID:29476 Thread-834, MSG:, 类别是：Watches, 爬虫的状态是：1, 当前时间戳是：1540527777743, 销量排名是：4, 月销量是：6491
+GMT+8:2018-10-26 12:22:57, TID:120432 Thread-833, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 6833}
+GMT+8:2018-10-26 12:22:57, TID:120432 Thread-833, MSG:, 类别是：Watches, 爬虫的状态是：1, 当前时间戳是：1540527777812, 销量排名是：3, 月销量是：6833
+GMT+8:2018-10-26 12:22:57, TID:26820 Thread-832, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 7330}
+GMT+8:2018-10-26 12:22:57, TID:26820 Thread-832, MSG:, 类别是：Watches, 爬虫的状态是：1, 当前时间戳是：1540527777815, 销量排名是：2, 月销量是：7330
+GMT+8:2018-10-26 12:22:57, TID:50528 Thread-841, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 6023}
+GMT+8:2018-10-26 12:22:57, TID:50528 Thread-841, MSG:, 类别是：Watches, 爬虫的状态是：1, 当前时间戳是：1540527777867, 销量排名是：6, 月销量是：6023
+GMT+8:2018-10-26 12:22:57, TID:44572 Thread-842, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 5850}
+GMT+8:2018-10-26 12:22:57, TID:50592 Thread-843, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 5702}
+GMT+8:2018-10-26 12:22:57, TID:44572 Thread-842, MSG:, 类别是：Watches, 爬虫的状态是：1, 当前时间戳是：1540527777872, 销量排名是：7, 月销量是：5850
+GMT+8:2018-10-26 12:22:57, TID:50592 Thread-843, MSG:, 类别是：Watches, 爬虫的状态是：1, 当前时间戳是：1540527777872, 销量排名是：8, 月销量是：5702
+GMT+8:2018-10-26 12:22:57, TID:45424 Thread-844, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 5573}
+GMT+8:2018-10-26 12:22:57, TID:121796 Thread-845, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 5459}
+GMT+8:2018-10-26 12:22:57, TID:45424 Thread-844, MSG:, 类别是：Watches, 爬虫的状态是：1, 当前时间戳是：1540527777874, 销量排名是：9, 月销量是：5573
+GMT+8:2018-10-26 12:22:57, TID:121796 Thread-845, MSG:, 类别是：Watches, 爬虫的状态是：1, 当前时间戳是：1540527777875, 销量排名是：10, 月销量是：5459
+GMT+8:2018-10-26 12:22:58, TID:97400 Thread-851, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 5032}
+GMT+8:2018-10-26 12:22:58, TID:97400 Thread-851, MSG:, 类别是：Watches, 爬虫的状态是：1, 当前时间戳是：1540527778028, 销量排名是：15, 月销量是：5032
+GMT+8:2018-10-26 12:22:59, TID:101832 Thread-676, MSG:, {'status': True, 'message': 'Success Operation!', 'estSalesResult': 29490}
+GMT+8:2018-10-26 12:22:59, TID:101832 Thread-676, MSG:, 类别是：Pet Supplies, 爬虫的状态是：1, 当前时间戳是：1540527779076, 销量排名是：1, 月销量是：29490

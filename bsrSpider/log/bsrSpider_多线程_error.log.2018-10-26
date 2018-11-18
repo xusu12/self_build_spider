@@ -1,0 +1,40 @@
+GMT+8:2018-10-26 12:22:54, PID:49824, TID:[13356 Thread-594, LEV:40 ERROR, MSG:, error with status PGRES_FATAL_ERROR and no message from the libpq
+GMT+8:2018-10-26 12:22:54, PID:49824, TID:[67784 Thread-584, LEV:40 ERROR, MSG:, current transaction is aborted, commands ignored until end of transaction block
+
+GMT+8:2018-10-26 12:22:54, PID:49824, TID:[64960 Thread-593, LEV:40 ERROR, MSG:, current transaction is aborted, commands ignored until end of transaction block
+
+GMT+8:2018-10-26 12:22:54, PID:49824, TID:[70060 Thread-603, LEV:40 ERROR, MSG:, current transaction is aborted, commands ignored until end of transaction block
+
+GMT+8:2018-10-26 12:22:54, PID:49824, TID:[69108 Thread-595, LEV:40 ERROR, MSG:, current transaction is aborted, commands ignored until end of transaction block
+
+GMT+8:2018-10-26 12:22:54, PID:49824, TID:[67976 Thread-615, LEV:40 ERROR, MSG:, current transaction is aborted, commands ignored until end of transaction block
+
+GMT+8:2018-10-26 12:22:54, PID:49824, TID:[68016 Thread-614, LEV:40 ERROR, MSG:, current transaction is aborted, commands ignored until end of transaction block
+
+GMT+8:2018-10-26 12:22:54, PID:49824, TID:[63428 Thread-618, LEV:40 ERROR, MSG:, current transaction is aborted, commands ignored until end of transaction block
+
+GMT+8:2018-10-26 12:22:54, PID:49824, TID:[66268 Thread-617, LEV:40 ERROR, MSG:, current transaction is aborted, commands ignored until end of transaction block
+
+GMT+8:2018-10-26 12:22:57, PID:49824, TID:[70104 Thread-800, LEV:40 ERROR, MSG:, cursor already closed
+GMT+8:2018-10-26 12:22:57, PID:49824, TID:[67316 Thread-801, LEV:40 ERROR, MSG:, cursor already closed
+GMT+8:2018-10-26 12:22:57, PID:49824, TID:[44736 Thread-804, LEV:40 ERROR, MSG:, cursor already closed
+GMT+8:2018-10-26 12:22:57, PID:49824, TID:[44668 Thread-803, LEV:40 ERROR, MSG:, cursor already closed
+GMT+8:2018-10-26 12:22:57, PID:49824, TID:[40080 Thread-802, LEV:40 ERROR, MSG:, cursor already closed
+GMT+8:2018-10-26 12:22:57, PID:49824, TID:[25676 Thread-811, LEV:40 ERROR, MSG:, cursor already closed
+GMT+8:2018-10-26 12:22:57, PID:49824, TID:[43004 Thread-813, LEV:40 ERROR, MSG:, cursor already closed
+GMT+8:2018-10-26 12:22:57, PID:49824, TID:[120524 Thread-810, LEV:40 ERROR, MSG:, cursor already closed
+GMT+8:2018-10-26 12:22:57, PID:49824, TID:[85792 Thread-814, LEV:40 ERROR, MSG:, cursor already closed
+GMT+8:2018-10-26 12:22:57, PID:49824, TID:[86596 Thread-812, LEV:40 ERROR, MSG:, cursor already closed
+GMT+8:2018-10-26 12:22:57, PID:49824, TID:[15800 Thread-820, LEV:40 ERROR, MSG:, cursor already closed
+GMT+8:2018-10-26 12:22:57, PID:49824, TID:[23528 Thread-831, LEV:40 ERROR, MSG:, cursor already closed
+GMT+8:2018-10-26 12:22:57, PID:49824, TID:[34780 Thread-835, LEV:40 ERROR, MSG:, cursor already closed
+GMT+8:2018-10-26 12:22:57, PID:49824, TID:[29476 Thread-834, LEV:40 ERROR, MSG:, cursor already closed
+GMT+8:2018-10-26 12:22:57, PID:49824, TID:[120432 Thread-833, LEV:40 ERROR, MSG:, cursor already closed
+GMT+8:2018-10-26 12:22:57, PID:49824, TID:[26820 Thread-832, LEV:40 ERROR, MSG:, cursor already closed
+GMT+8:2018-10-26 12:22:57, PID:49824, TID:[50528 Thread-841, LEV:40 ERROR, MSG:, cursor already closed
+GMT+8:2018-10-26 12:22:57, PID:49824, TID:[44572 Thread-842, LEV:40 ERROR, MSG:, cursor already closed
+GMT+8:2018-10-26 12:22:57, PID:49824, TID:[50592 Thread-843, LEV:40 ERROR, MSG:, cursor already closed
+GMT+8:2018-10-26 12:22:57, PID:49824, TID:[45424 Thread-844, LEV:40 ERROR, MSG:, cursor already closed
+GMT+8:2018-10-26 12:22:57, PID:49824, TID:[121796 Thread-845, LEV:40 ERROR, MSG:, cursor already closed
+GMT+8:2018-10-26 12:22:58, PID:49824, TID:[97400 Thread-851, LEV:40 ERROR, MSG:, cursor already closed
+GMT+8:2018-10-26 12:22:59, PID:49824, TID:[101832 Thread-676, LEV:40 ERROR, MSG:, cursor already closed
