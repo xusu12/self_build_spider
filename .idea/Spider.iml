@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/bsrSpider" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/slide_captcha" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/google_play" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/youdao" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/baidu_map_poi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/toutiao" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/douyin" isTestSource="false" />
+    </content>
     <orderEntry type="jdk" jdkName="Python 3.6" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
