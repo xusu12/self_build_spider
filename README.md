@@ -33,7 +33,7 @@
 
 **动图演示：**
 
-![douban_lgin](./douban_lgin/douban_lgin.gif)
+![douban_lgin](./douban_login/douban_lgin.gif)
 
 
 ### 5.爬取Google商店中各类app的信息
