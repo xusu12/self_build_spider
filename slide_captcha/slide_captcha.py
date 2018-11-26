@@ -49,36 +49,6 @@ def get_image_url(driver, xpath):
         image_url = url
     return image_url, location
 
-    # 拼接图片
-    def mosaic_image(self, image_url, location):
-        print(image_url)
-        resq = requests.get(image_url)
-        file = BytesIO(resq.content)
-        img = Image.open(file)
-        image_upper_lst = []
-        image_down_lst = []
-        for pos in location:
-            if pos[1] == 0:
-                # y值==0的图片属于上半部分，高度58
-                image_upper_lst.append(img.crop((abs(pos[0]), 0, abs(pos[0]) + 10, 58)))
-            else:
-                # y值==58的图片属于下半部分
-                image_down_lst.append(img.crop((abs(pos[0]), 58, abs(pos[0]) + 10, img.height)))
-
-        x_offset = 0
-        # 创建一张画布，x_offset主要为新画布使用
-        new_img = Image.new("RGB", (260, img.height))
-        for img in image_upper_lst:
-            new_img.paste(img, (x_offset, 58))
-            x_offset += img.width
-
-        x_offset = 0
-        for img in image_down_lst:
-            new_img.paste(img, (x_offset, 0))
-            x_offset += img.width
-
-        return new_img
-
 
 # 拼接图片
 def mosaic_image(image_url, location):
@@ -157,16 +127,6 @@ def start_move(driver, distance):
 
     ActionChains(driver).move_by_offset(distance, 1).perform()
     ActionChains(driver).release(on_element=element).perform()
-
-
-# 滑动验证成功后  输入手机号注册
-def register(driver):
-    element = driver.find_element_by_xpath('//input[@id="sms_username"]')
-    element.clear()
-    element.send_keys("13900112233")
-
-    ele_captcha = driver.find_element_by_xpath('//span[@class="js-btn-captcha btn-captcha"]')
-    ele_captcha.click()
 
 
 # 滑动验证成功后  输入手机号注册
