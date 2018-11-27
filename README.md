@@ -58,7 +58,6 @@
 6. 将验证码字符写入页面的框中  完成验证
 
 **动图演示**
-
 ![jike_login](./jike_login/jike_login.gif)
 
 
