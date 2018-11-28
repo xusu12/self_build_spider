@@ -1,7 +1,6 @@
 import base64
 import time
 import random
-import requests
 
 import yudama
 from selenium import webdriver
