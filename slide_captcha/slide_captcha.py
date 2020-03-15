@@ -15,11 +15,17 @@ from selenium.webdriver.common.action_chains import ActionChains
 def visit_index(driver):
     driver.get("https://www.huxiu.com/")
 
-    WebDriverWait(driver, 5).until(EC.element_to_be_clickable((By.XPATH, '//*[@class="js-register"]')))
-    # 定位注册按钮
-    reg_element = driver.find_element_by_xpath('//*[@class="js-register"]')
+    # WebDriverWait(driver, 5).until(EC.element_to_be_clickable((By.XPATH, '//*[@class="js-register"]')))
+    # 定位用户按钮
+    driver.find_element_by_xpath('//*[@id="header-nav"]/nav/ul/li[6]/div/img').click()
+    time.sleep(1)
     # 点击注册按钮
-    reg_element.click()
+    driver.find_element_by_xpath('//*[@class="login-tip-click"]').click()
+    time.sleep(1)
+    # 输入手机号码
+    driver.find_element_by_xpath('//*[@class="login-input-box"]/input').send_keys('15555081413')
+    # 点击获取验证码
+    driver.find_element_by_xpath('//*[@class="login-input-row"]/button').click()
 
 
 # 鼠标移动到拖动按钮，显示出拖动图片
